@@ -1,0 +1,39 @@
+title: Friends of Kyrgyzstan
+subtitle: A place to connect with others who love Kyrgyzstan.
+
+url: "https://www.friendsofkyrgyzstan.com"
+google-analytics: UA-12358141-35
+
+sass:
+    load_paths:
+        - _sass
+        - node_modules
+
+exclude: []
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/kyrgyzstan-mountain-landscape.jpg
+twitter:
+  # username: benbalter
+  card: summary
+# facebook:
+#  app_id: 1234
+#  publisher: 1234
+#  admins: 1234
+social:
+  name: Friends of Kyrgyzstan
+  links:
+    - https://www.facebook.com/FriendsOfKyrgyzstan/
+webmaster_verifications:
+  google: 1234
+  bing: 1234
+  alexa: 1234
+  yandex: 1234
+  baidu: 1234

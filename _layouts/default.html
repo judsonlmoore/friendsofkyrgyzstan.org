@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+
+  <head>
+
+    {% include google-analytics.html %}
+
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="{{'/assets/main.css' | prepend: site.baseurl}}">
+
+    {% seo %}
+
+  </head>
+
+  <body class={{ page.layout }}>
+
+    {% include nav.html %}
+
+    {{ content }}
+
+    {% include footer.html %}
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="{{'/node_modules/jquery/dist/jquery.min.js' | prepend: site.baseurl}}"></script>
+    <script src="{{'/node_modules/popper.js/dist/umd/popper.min.js' | prepend: site.baseurl}}"></script>
+    <script src="{{'/node_modules/bootstrap/dist/js/bootstrap.min.js' | prepend: site.baseurl}}"></script>
+
+  </body>
+
+</html>
