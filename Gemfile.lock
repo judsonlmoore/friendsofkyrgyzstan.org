@@ -23,7 +23,7 @@ GEM
       public_suffix (>= 2.0.2, < 5.0)
     autoprefixer-rails (9.7.4)
       execjs
-    bootstrap (4.2.1)
+    bootstrap (4.4.1)
       autoprefixer-rails (>= 9.1.0)
       popper_js (>= 1.14.3, < 2)
       sassc-rails (>= 2.0.0)
@@ -55,6 +55,8 @@ GEM
       pathutil (~> 0.9)
       rouge (>= 1.7, < 4)
       safe_yaml (~> 1.0)
+    jekyll-include-cache (0.2.0)
+      jekyll (>= 3.7, < 5.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
     jekyll-seo-tag (2.6.1)
@@ -83,7 +85,7 @@ GEM
       forwardable-extended (~> 2.6)
     popper_js (1.16.0)
     public_suffix (4.0.3)
-    rack (2.1.1)
+    rack (2.1.2)
     rack-test (1.1.0)
       rack (>= 1.0, < 3)
     rails-dom-testing (2.0.3)
@@ -133,8 +135,9 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bootstrap (~> 4.2.1)
+  bootstrap (>= 4.3.1)
   jekyll
+  jekyll-include-cache
   jekyll-seo-tag
   jekyll-sitemap
   kramdown

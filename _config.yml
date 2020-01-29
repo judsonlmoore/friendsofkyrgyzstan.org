@@ -14,6 +14,7 @@ exclude: []
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-include-cache
 
 defaults:
   - scope:
@@ -37,3 +38,12 @@ webmaster_verifications:
   alexa: 1234
   yandex: 1234
   baidu: 1234
+
+compress_html:  
+  clippings: all  
+  comments: ["<!-- ", " -->"] 
+  endings: [html, head, body, li, dt, dd, rt, rp, optgroup, option, colgroup, caption, thead, tbody, tfoot, tr, td, th] 
+  profile: false 
+  blanklines: false 
+  ignore: 
+    envs: []
