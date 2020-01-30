@@ -1,9 +1,10 @@
 ---
 title: Donate
-subtitle: For current PCVs in Kyrgyzstan
+subtitle: Support our cause
+description: Make a tax-deductable donation to Friends of Kyrgyzstan
 permalink: /donate/
 layout: page
-hero-image: /assets/images/kyrgyzstan-mountain-landscape.jpg
+image: /assets/images/kyrgyzstan-mountain-landscape.jpg
 ---
 
 

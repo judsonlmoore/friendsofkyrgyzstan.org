@@ -21,6 +21,10 @@ defaults:
       path: ""
     values:
       image: /assets/images/kyrgyzstan-mountain-landscape.jpg
+  - scope:
+      path: ""
+    values:
+      description: A place to connect with others who love Kyrgyzstan.
 twitter:
   # username: benbalter
   card: summary
