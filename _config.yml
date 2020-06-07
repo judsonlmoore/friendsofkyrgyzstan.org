@@ -39,7 +39,7 @@ defaults:
 
 twitter:
   # username: benbalter
-  card: summary
+  card: large
 
 facebook:
   app_id: 636734270387509
