@@ -28,6 +28,7 @@ group :jekyll_plugins do
     gem 'jekyll-sitemap'
 	gem 'jekyll-include-cache'
 	gem "activesupport", ">= 6.0.3.1"
+	gem "actionpack", ">= 6.0.3.1"
     # gem 'jekyll-minifier'
     # gem 'html-proofer'
 
