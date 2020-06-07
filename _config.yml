@@ -11,8 +11,6 @@ sass:
 
 exclude: []
 
-include: ["_pages"]
-
 permalink: /:title/
 
 plugins:
@@ -33,7 +31,7 @@ defaults:
       image: /assets/images/kyrgyzstan-mountain-landscape.jpg
       description: A place to connect with others who love Kyrgyzstan.
   - scope:
-      type: page
+      type: pages
     values:
       layout: "page"
   - scope:
