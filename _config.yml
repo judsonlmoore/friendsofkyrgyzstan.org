@@ -4,20 +4,12 @@ subtitle: A place to connect with others who love Kyrgyzstan.
 url: "https://www.friendsofkyrgyzstan.org"
 google-analytics: UA-12358141-35
 
-sass:
-    load_paths:
-        - _sass
-        - node_modules
-
-exclude: []
-
 permalink: /:title/
 
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-include-cache
-
 
 collections:
   authors:
