@@ -69,7 +69,7 @@ I was only dreaming that by sharing my experiences, I could make some impact at 
 
 <figure class="figure">
   <img src="{{ site.url }}/assets/images/2020/05/kyrgyzstan-president-almazbek-atambayev-breaking-ground-hospital.jpg" class="figure-img img-fluid rounded" alt="President Almazbek Atambayev of Kyrgyzstan breaks ground on a new medical facility.">
-  <figcaption class="figure-caption">President Almazbek Atambayev of Kyrgyzstan breaks ground on a new medical facility. Photo credit: [vb.kg](http://www.vb.kg/doc/367922_atambaev:_narody_nyjno_sozdat_dostoynye_ysloviia_dlia_polycheniia_medpomoshi.html)</figcaption>
+  <figcaption class="figure-caption">President Almazbek Atambayev of Kyrgyzstan breaks ground on a new medical facility. Photo credit: <a href="http://www.vb.kg/doc/367922_atambaev:_narody_nyjno_sozdat_dostoynye_ysloviia_dlia_polycheniia_medpomoshi.html" target="_blank"> vb.kg</a></figcaption>
 </figure>
 
 ## Students attending university
