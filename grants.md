@@ -2,9 +2,6 @@
 title: Grants
 subtitle: For current PCVs in Kyrgyzstan
 description: Information about the Friends of Kyrgyzstan grants available to current PCVs in Kyrgyzstan
-permalink: /grants/
-layout: page
-image: /assets/images/kyrgyzstan-mountain-landscape.jpg
 ---
 
 ### Who is Friends of Kyrgyzstan?

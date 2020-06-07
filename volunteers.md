@@ -1,10 +1,7 @@
 ---
-title: Peace Corps Volunteers in Kyrgyzstan
-subtitle: A directory of current and past volunteers
-description: A list of current and past Peace Corps Volunteers serving in the Kyrgyz Republic
-permalink: /volunteers/
-layout: page
-image: /assets/images/kyrgyzstan-mountain-landscape.jpg
+title: 			Peace Corps Volunteers in Kyrgyzstan
+subtitle: 		A directory of current and past volunteers
+description: 	A list of current and past Peace Corps Volunteers serving in the Kyrgyz Republic
 ---
 
 ## K21

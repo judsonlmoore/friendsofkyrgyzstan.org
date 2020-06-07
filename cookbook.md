@@ -2,9 +2,6 @@
 title: Cookbook
 subtitle: Recipes from Central Asia
 description: Cook traditional Kyrgyz and Central Asian cuisine
-permalink: /cookbook/
-layout: page
-image: /assets/images/kyrgyzstan-mountain-landscape.jpg
 ---
 
 Окрошка — Akroshka (Cold Kefir Soup)

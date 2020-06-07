@@ -1,0 +1,38 @@
+<div class="col-lg-4 px-3 p-sm-0 pl-lg-4">
+
+	<div class="card rounded shadow-sm mb-5 d-none d-lg-block">
+		<div class="card-header bg-dark text-light">Subscribe</div>
+		<div class="card-body bg-white text-dark">
+			{% include form-opt-in.html %}
+			<p class="small text-muted mb-0">Unsubscribe anytime</p>
+		</div>
+	</div>
+
+	<div class="card rounded shadow-sm mb-5 d-none d-lg-block">
+		<div class="card-header bg-dark text-light">Related posts</div>
+		<div class="card-body bg-white text-dark">
+	    	{% include related-posts.html %}
+		</div>
+	</div>
+
+	<div class="card rounded shadow-sm mb-5 d-none d-lg-block">
+		<div class="card-body bg-white text-dark">
+
+			<!-- Facebook page feed -->
+			<div class="fb-page" data-href="https://www.facebook.com/FriendsOfKyrgyzstan/" data-tabs="" data-width="" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/FriendsOfKyrgyzstan/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/FriendsOfKyrgyzstan/">Friends of Kyrgyzstan</a></blockquote></div>
+
+			<!-- Instagram feed by https://github.com/stevenschobert/instafeed.js/ -->
+			<div id="instafeed"></div>
+	        <script src='https://fokgz-com-instafeed-js.herokuapp.com/token.js'></script>
+	        <script src="{{ site.url }}/assets/js/instafeed.min.js"></script>
+			<script type="text/javascript">
+			    var feed = new Instafeed({
+			      accessToken: InstagramToken
+			    });
+			    feed.run();
+			</script>
+
+		</div>
+	</div>
+
+</div>

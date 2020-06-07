@@ -11,20 +11,42 @@ sass:
 
 exclude: []
 
+include: ["_pages"]
+
+permalink: /:title/
+
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-include-cache
 
+
+collections:
+  authors:
+    output: true
+
 defaults:
   - scope:
       path: ""
     values:
+      author: fokgz
       image: /assets/images/kyrgyzstan-mountain-landscape.jpg
+      description: A place to connect with others who love Kyrgyzstan.
+  - scope:
+      type: page
+    values:
+      layout: "page"
   - scope:
       path: ""
+      type: posts
     values:
-      description: A place to connect with others who love Kyrgyzstan.
+      layout: "post"
+  - scope:
+      path: ""
+      type: authors
+    values:
+      layout: "author"
+
 twitter:
   # username: benbalter
   card: summary
@@ -42,6 +64,9 @@ webmaster_verifications:
   alexa: 1234
   yandex: 1234
   baidu: 1234
+
+disqus: fokgz
+mailchimp-list: https://friendsofkyrgyzstan.us10.list-manage.com/subscribe/post?u=db91617a7211166ac946aeb91&amp;id=08e9a611b3
 
 compress_html:  
   clippings: all  

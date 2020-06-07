@@ -1,9 +1,6 @@
 ---
-title: Friends of Kyrgyzstan Privacy Policy
-subtitle: For current PCVs in Kyrgyzstan
-permalink: /privacy/
-layout: page
-hero-image: /assets/images/kyrgyzstan-mountain-landscape.jpg
+title: 			Friends of Kyrgyzstan Privacy Policy
+subtitle: 		For current PCVs in Kyrgyzstan
 ---
 
 This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from [https://www.friendsofkyrgyzstan.com/](https://www.friendsofkyrgyzstan.com/) (the “Site”).
