@@ -40,20 +40,16 @@ defaults:
 twitter:
   # username: benbalter
   card: summary
-# facebook:
-#  app_id: 1234
-#  publisher: 1234
-#  admins: 1234
+
+facebook:
+  app_id: 636734270387509
+  admins: 748068695307188
+
 social:
   name: Friends of Kyrgyzstan
   links:
     - https://www.facebook.com/FriendsOfKyrgyzstan/
-webmaster_verifications:
-  google: 1234
-  bing: 1234
-  alexa: 1234
-  yandex: 1234
-  baidu: 1234
+    - https://www.instagram.com/fokgz/
 
 disqus: fokgz
 mailchimp-list: https://friendsofkyrgyzstan.us10.list-manage.com/subscribe/post?u=db91617a7211166ac946aeb91&amp;id=08e9a611b3
