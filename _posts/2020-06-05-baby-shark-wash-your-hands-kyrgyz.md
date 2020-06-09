@@ -1,16 +1,13 @@
 ---
-title:			RPCV collaborates with local organization to translate baby shark "Wash your Hands" video into Kyrgyz
-categories:		['peace corps']
+title:			RPCV collaborates with local organization to translate baby shark Wash your Hands video into Kyrgyz
+categories:		rpcv
 tags:
-  - bishkek
-  - kyrgyzstan
-  - peace corps
-  - service above self
-  - talas
-excerpt:		
+  - guest post
+  - third goal
 image:			/assets/images/2020/05/baby-shark-wash-your-hands.png
 author:			davidmalana
 toc:			false
+canonical_url:  
 ---
 
 

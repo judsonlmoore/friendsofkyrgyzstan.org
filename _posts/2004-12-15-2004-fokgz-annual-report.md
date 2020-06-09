@@ -1,0 +1,22 @@
+---
+title:			Friends of Kyrgyzstan 2004 Annual Report	
+categories:		501c3
+toc:			false
+---
+
+This year has been a very important year for the Friends of Kyrgyzstan (FOKGZ). In 2004 FOKGZ made the transition from a list serve of loosely connected returned and current volunteers to a not-for-profit organization with a definite structure and defined goals.
+
+In early 2004 FOKGZ became incorporated as a charitable organization in the state of New York. We also established an EIN tax identification number with the IRS and our treasurer, Brandon Boyle, set up a bank account for us.
+
+In March of 2004 FOKGZ became an official affiliate of the National Peace Corps Association. We also applied for and received a $200 grant to enable us to establish a website for the group.
+
+Hugh Ho began work on the website in the spring and was able to launch the site live shortly before the National Peace Corps Association conference in August. The site has been a wonderful addition to FOKGZ as it gives us an official presence. Being a
+geographically diverse group FOKGZ needed to have a website to achieve a real sense of legitimacy and purpose.
+
+NPCA and Friends of Kyrgyzstan member Melissa Morgan organized a reunion dinner During the National Peace Corps Association conference in Chicago. The dinner was a huge success and helped get some of the earlier volunteers more actively involved in the group.
+
+In the fall of 2004 FOKGZ started working with a lawyer located by member Neil Berkowitz on the paperwork need for establishing federal not for profit 501 C 3 status with the federal government. Neil Petty our lawyer that is donating his time has been a
+great benefit to the group and has helped us clarify our goals and objectives. Also in the fall FOKGZ unfortunately lost contact with our newsletter editor but was lucky to have Becca Ripley offer to assume the place and FOKGZ is eagerly waiting for the first newsletter release in early March 2005.
+
+The 2004-year was a very productive year in getting established as an organization but FOKGZ had a slow year in terms of charitable projects. FOKGZ sent the last boxes of donated clothing from the 2003 clothing drive to the Center for the Protection of Children
+and the Babushka Adoption in Bishkek. Individual members solicited help from people in the group but FOKGZ did not directly sponsor any projects this year. FOKGZ is organizing a fundraising committee and hopes to be able to fund some projects in 2005.

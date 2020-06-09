@@ -37,6 +37,29 @@ layout: compress
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 
+    <!-- Modal popup controll -->
+    <script type="text/javascript"> 
+        $(document).ready(function(){
+            if (!sessionStorage.adModal) {
+            setTimeout(function() {
+              $('#admodal').find('.modal');
+                $('#admodal').modal({
+                  backdrop: 'static',
+                  keyboard: false
+                });
+            }, 30000);
+              sessionStorage.adModal = 1;
+          }
+        });
+    </script>
+
+    <!-- Disqus Count -->
+    <script id="dsq-count-scr" src="//{{ site.disqus }}.disqus.com/count.js" async>
+        var disqus_config = function () {
+            this.callbacks.onNewComment = [function() { DISQUSWIDGETS.getCount({reset: true}); }];
+        };
+    </script>
+
   </body>
 
 </html>

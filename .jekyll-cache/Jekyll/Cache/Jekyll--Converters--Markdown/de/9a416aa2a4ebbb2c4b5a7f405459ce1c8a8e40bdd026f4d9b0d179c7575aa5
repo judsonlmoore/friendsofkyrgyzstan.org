@@ -1,0 +1,63 @@
+I"�<p>The Friends of Kyrgyzstan blog features original and cross-posted content from current and returned Peace Corps Volunteers serving in Kyrgyzstan, Peace Corps staff, and others who have been part of the work performed by PCVs. If you would like contribute content to this blog, please read the posting guidelines on the <a href="http://localhost:4000/authors/">author’s page</a>.</p>
+
+<div class="row row-cols-1 row-cols-sm-2 row-cols-md-3">
+	
+	<div class="col mb-3">
+	<div class="card h-100">
+		<img src="http://localhost:4000/assets/images/kyrgyzstan-mountain-landscape.jpg" alt="" class="img-fluid" />
+	    <div class="card-body">
+	        <h5 class="card-title"></h5>
+	        <p class="card-text mb-0"></p>
+	  		<a href="http://localhost:4000/2007-07-01-americanski-bill-bame-july-2007/" class="stretched-link"></a>
+	    </div>
+	</div>
+</div>
+	
+	<div class="col mb-3">
+	<div class="card h-100">
+		&lt;img src="http://localhost:4000/assets/images/2020/05/baby-shark-wash-your-hands.png" alt="RPCV collaborates with local organization to translate baby shark "Wash your Hands" video into Kyrgyz" class="img-fluid"&gt;
+	    <div class="card-body">
+	        <h5 class="card-title">RPCV collaborates with local organization to translate baby shark "Wash your Hands" video into Kyrgyz</h5>
+	        <p class="card-text mb-0">Wash your hands and be careful!
+</p>
+	  		<a href="http://localhost:4000/baby-shark-wash-your-hands-kyrgyz/" class="stretched-link"></a>
+	    </div>
+	</div>
+</div>
+	
+	<div class="col mb-3">
+	<div class="card h-100">
+		<img src="http://localhost:4000/assets/images/2020/05/conference-community-media-kyrgyzstan-nov-2017-judson-keynote.jpg" alt="What I have learned about my Peace Corps legacy in Kyrgyzstan" class="img-fluid" />
+	    <div class="card-body">
+	        <h5 class="card-title">What I have learned about my Peace Corps legacy in Kyrgyzstan</h5>
+	        <p class="card-text mb-0">I recently learned a few things which I did not know about my own legacy in Kyrgyzstan. Some of these...</p>
+	  		<a href="http://localhost:4000/my-peace-corps-legacy/" class="stretched-link"></a>
+	    </div>
+	</div>
+</div>
+	
+	<div class="col mb-3">
+	<div class="card h-100">
+		<img src="http://localhost:4000/assets/images/2011/07/Three-tea-cups.jpeg" alt="Peela Chai Each" class="img-fluid" />
+	    <div class="card-body">
+	        <h5 class="card-title">Peela Chai Each</h5>
+	        <p class="card-text mb-0">Last week was RadioMost’s 4th Anniversary as the pioneer community radio station in Kyrgyzstan.  To mark the occasion we had a music festival...</p>
+	  		<a href="http://localhost:4000/peela-chai-each/" class="stretched-link"></a>
+	    </div>
+	</div>
+</div>
+	
+	<div class="col mb-3">
+	<div class="card h-100">
+		<img src="http://localhost:4000/assets/images/2005/04/kyrgyz-family-in-garden.png" alt="Americanski Bill Bame Volume 1 Issue 1" class="img-fluid" />
+	    <div class="card-body">
+	        <h5 class="card-title">Americanski Bill Bame Volume 1 Issue 1</h5>
+	        <p class="card-text mb-0">Welcome to our first newsletter!
+</p>
+	  		<a href="http://localhost:4000/americanski-bill-bame-vol1-issue1/" class="stretched-link"></a>
+	    </div>
+	</div>
+</div>
+	
+</div>
+:ET

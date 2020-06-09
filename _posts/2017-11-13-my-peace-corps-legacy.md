@@ -1,14 +1,12 @@
 ---
 title:			What I have learned about my Peace Corps legacy in Kyrgyzstan
-categories:		['peace corps']
+categories:		rpcv
 tags:
-  - bishkek
-  - kyrgyzstan
-  - peace corps
-  - service above self
-  - talas
+  - guest post
+  - third goal
 excerpt:		I recently learned a few things which I did not know about my own legacy in Kyrgyzstan. Some of these I suspected, while others were a complete shock.
 image:			/assets/images/2020/05/conference-community-media-kyrgyzstan-nov-2017-judson-keynote.jpg
+canonical_url:  https://www.judsonlmoore.com/my-peace-corps-legacy/
 author:			judsonlmoore
 ---
 
@@ -31,8 +29,8 @@ After a few months of this, **I started to get an idea**. I observed that many o
 Additionally, it was obvious that nearly everyone in Kyrgyzstan had a smartphone and was keeping in touch with the news and their friends via phone apps. Therefore, I came up with the idea that **we should provide phones and an online platform** to these journalists so that they could publish stories today, while they continue to progress toward building a radio station tomorrow.
 
 <figure class="figure">
-  <img src="{{ site.url }}/assets/images/2020/05/conference-community-media-kyrgyzstan-nov-2017-group-photoz.jpg" class="figure-img img-fluid rounded" alt="Judson delivering the keynote at a media conference in Bishkek in November 2017.">
-  <figcaption class="figure-caption">RPCV Judson L Moore delivers keynote at Bishkek media conference</figcaption>
+  <img src="{{ site.url }}/assets/images/2020/05/conference-community-media-kyrgyzstan-nov-2017-group-photo.jpg" class="figure-img img-fluid rounded" alt="Participants of community media conference in Bishkek in November 2017.">
+  <figcaption class="figure-caption">Participants of community media conference in Bishkek in November 2017.</figcaption>
 </figure>
 
 [kyrgyzmedia.kg](http://kyrgyzmedia.kg/) was born in 2013 and now reaches **more than 120,000 readers** each year all around the world. A remarkable achievement for these journalists who all come from rural parts of Kyrgyzstan!
@@ -55,8 +53,8 @@ As a writer **constrained to a hospital bed** for a week, I did just what you mi
 In my writing, I strived to compliment the skills and achievement of the medical teams, who were indeed great. However, they had very limited resources to work with. The purpose of my article was more to shine a light on the awful conditions of Kyrgyzstan's top surgical center in hopes that it might be **a contributing factor to future improvements**. My article was even [translated into Russian and posted on the local news site, Kloop Media](https://kloop.kg/blog/2013/04/29/kak-amerikanets-perezhil-appenditsit-v-bishkeke/).
 
 <figure class="figure">
-  <img src="{{ site.url }}/assets/images/2020/05/Appendectomy-at-Bishkeks-Natonal-Surgical-Center-049.jpg" class="figure-img img-fluid rounded" alt="Judson recovering in a hospital bed after having an appendectomy in Bishkek.">
-  <figcaption class="figure-caption">Judson recovering in a hospital bed after having an appendectomy in Bishkek.</figcaption>
+  <img src="{{ site.url }}/assets/images/2020/05/Appendectomy-at-Bishkeks-Natonal-Surgical-Center-049.jpg" class="figure-img img-fluid rounded" alt="Judson recovering in a Bishkek hospital bed after having an appendectomy in Bishkek.">
+  <figcaption class="figure-caption">Judson recovering in a Bishkek hospital bed after having an appendectomy in Bishkek.</figcaption>
 </figure>
 
 This week, my old doctor shared with me the news that **something indeed did happen** as a result of my reporting.

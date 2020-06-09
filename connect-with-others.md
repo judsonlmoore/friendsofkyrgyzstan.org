@@ -2,6 +2,9 @@
 title:			Connect with others
 ---
 
+
+A major goal of Friends of Kyrgyzstan is to connect people who share a love for Kyrgyzstan. On this page you will find links to other groups and resources about Kyrgyzstan. If you would like to have something added to this group, please [contact us]({{ site.url }}/contact/).
+
 ## Kyrgzystan Facebook Pages
 1. [Kyrgyzstan RPCVs - where are they now... (Private group – very active)](https://www.facebook.com/groups/2757435539/)
 2. [Kyrgyzstan (Private Group has been inactive since 2016)](https://www.facebook.com/groups/518080891657172/)

@@ -1,0 +1,48 @@
+I"ç<div class="row row-cols-1 row-cols-md-2">
+
+  <div class="col-sm-6">
+    <div class="card mb-3">
+      <div class="card-body">
+        <h5 class="card-title">Amy Redwine, RPCV K-6</h5>
+        <p class="card-text"><p>Amy served in Chui Oblast.</p>
+</p>
+        <a href="http://localhost:4000/authors/amyredwine" class="btn btn-primary">View posts</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-sm-6">
+    <div class="card mb-3">
+      <div class="card-body">
+        <h5 class="card-title">David Malana, RPCV K-18</h5>
+        <p class="card-text"><p>David served in Talas Oblast from 2010-12.</p>
+</p>
+        <a href="http://localhost:4000/authors/davidmalana" class="btn btn-primary">View posts</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-sm-6">
+    <div class="card mb-3">
+      <div class="card-body">
+        <h5 class="card-title">Friends of Kyrgyzstan, Editor</h5>
+        <p class="card-text"><p>Friends of Kyrgyzstan is a registered 501(c)3 organization and is not associated with the United States Peace Corps.</p>
+</p>
+        <a href="http://localhost:4000/authors/fokgz" class="btn btn-primary">View posts</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-sm-6">
+    <div class="card mb-3">
+      <div class="card-body">
+        <h5 class="card-title">Judson L Moore, RPCV K-19</h5>
+        <p class="card-text"><p>Judson L Moore is a Kentucky-born, Louisiana-raised, technophile who calls Texas home and currently lives in Germany, where he works as a product management professional.</p>
+</p>
+        <a href="http://localhost:4000/authors/judsonlmoore" class="btn btn-primary">View posts</a>
+      </div>
+    </div>
+  </div>
+
+</div>
+:ET
