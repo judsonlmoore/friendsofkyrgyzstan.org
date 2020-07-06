@@ -6,7 +6,7 @@ tags:
   - radiomost
   - talas
 image:			/assets/images/2011/07/Three-tea-cups.jpeg
-canonical_url:	https://www.judsonlmoore.com/peela-chai-each/
+canonical_url:	`https://www.judsonlmoore.com/peela-chai-each/`
 author:			judsonlmoore
 ---
 

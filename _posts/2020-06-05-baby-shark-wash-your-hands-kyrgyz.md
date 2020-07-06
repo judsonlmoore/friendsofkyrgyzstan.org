@@ -7,7 +7,6 @@ tags:
 image:			/assets/images/2020/05/baby-shark-wash-your-hands.png
 author:			davidmalana
 toc:			false
-canonical_url:  
 ---
 
 
