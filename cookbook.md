@@ -133,6 +133,36 @@ l egg, beaten
 
 Combine meat, onions and fat in large bowl. Season to taste with salt and pepper. Set aside. Sift flour and salt into large bowl and make a well in center. Pour egg and 1⁄2 cup water into center of flour. Mix with hands, adding remaining water by the tbs until dough forms but is not sticky. Knead dough 2 minutes; let rest 30 minutes. Transfer dough to floured board or table and divide into 4 equal pieces. Roll each piece to 1⁄8- inch thickness. Use a small glass to cut dough into circles. Place 1⁄2 tbs meat mixture atop dough. Dip fingers in warm water and fold dough into half moon shape. Bring corners together pinch to hold. Cook in large pot of boiling salted water until they float to the top, about 10 minutes. Serve in a broth or separately topped with sour cream or butter or chili paste.
 
+## Rainbow trout
+
+While fish is a bit more common now in Kyrgyzstan, back in the late 90’s, it was rare unless you went fishing and caught it yourself. There are certainly no national dishes that feature fish. But for me-trout triggers a good memory specific to my experience there.
+
+[This dish was featured in a blog post here!]({{ site.url }}/how-to-cook-rainbow-trout/)
+
+**Ingredients:**
+- Salt to taste
+- Pepper to taste
+- 1 clove garlic
+- Red pepper flakes/crushed to taste
+- Coriander seeds or cumin seeds to taste
+- Skewer or fish grate
+
+**Instructions**
+- Clean the fish of scales and clean the cavity. Clean the inside cavity. Rinse and pat dry. (Tip: by it cleaned and prepped from the store.)
+- Cut a clove of garlic in half and rub cut end over surface and cavity of fish.
+- Season outside and cavity with salt, pepper, red pepper.
+- Crush the coriander or cumin in your hand to bring out the flavor. Sprinkle inside and out.
+- Gently skewer the fish to keep it together and allow you to turn it easily.
+- You don’t need oil since the fish has natural oils. But you know your grill and your tastes. Feel free to
+- Add to a hot grill for a few minutes on each side until grilled perfectly.
+- Plate, squeeze fresh lemon on top, and enjoy!
+
+Here is a short video explaining how to cook rainbow trout Kyrgyz style in more detail: 
+
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/6tlNFNkAVwc" allowfullscreen></iframe>
+</div>
+
 ## Плов — Plov
 
 (4 servings)  
