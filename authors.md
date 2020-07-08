@@ -24,7 +24,7 @@ We are eager to hear your story soon!
   <div class="col-sm-6">
     <div class="card mb-3">
       <div class="card-body">
-        <h5 class="card-title">{{ author.name }}, {{ author.position }}</h5>
+        <h5 class="card-title">{{ author.name }}{% if author.position %}, {{ author.position }}{% endif %}</h5>
         <p class="card-text">{{ author.content | markdownify }}</p>
         <a href="{{ site.url }}/authors/{{ author.short_name }}" class="btn btn-primary">View posts</a>
       </div>
