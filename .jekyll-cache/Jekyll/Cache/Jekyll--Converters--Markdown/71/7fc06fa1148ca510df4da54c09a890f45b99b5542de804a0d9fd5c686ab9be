@@ -1,6 +1,28 @@
-I"L<p>The Friends of Kyrgyzstan blog features original and cross-posted content from current and returned Peace Corps Volunteers serving in Kyrgyzstan, Peace Corps staff, and others who have been part of the work performed by PCVs. If you would like contribute content to this blog, please read the posting guidelines on the <a href="http://localhost:4000/authors/">author’s page</a>.</p>
+I"�<p>The Friends of Kyrgyzstan blog features original and cross-posted content from current and returned Peace Corps Volunteers serving in Kyrgyzstan, Peace Corps staff, and others who have been part of the work performed by PCVs. If you would like contribute content to this blog, please read the posting guidelines on the <a href="http://localhost:4000/authors/">author’s page</a>.</p>
 
 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3">
+	
+	<div class="col mb-3">
+	<div class="card h-100">
+		<img src="http://localhost:4000/assets/images/kyrgyzstan-mountain-landscape.jpg" alt="" class="img-fluid" />
+	    <div class="card-body">
+	        <h5 class="card-title"></h5>
+	        <p class="card-text mb-0"></p>
+	  		<a href="http://localhost:4000/2017-11-13-my-peace-corps-legacy/" class="stretched-link"></a>
+	    </div>
+	</div>
+</div>
+	
+	<div class="col mb-3">
+	<div class="card h-100">
+		<img src="http://localhost:4000/assets/images/2020/07/how-to-cook-rainbow-trout.jpg" alt="How to cook rainbow trout Kyrgyz style" class="img-fluid" />
+	    <div class="card-body">
+	        <h5 class="card-title">How to cook rainbow trout Kyrgyz style</h5>
+	        <p class="card-text mb-0">So, I had planned to make shashlik. Though I am pescatarian, it’s a dish I make for my family of...</p>
+	  		<a href="http://localhost:4000/how-to-cook-rainbow-trout/" class="stretched-link"></a>
+	    </div>
+	</div>
+</div>
 	
 	<div class="col mb-3">
 	<div class="card h-100">
@@ -10,17 +32,6 @@
 	        <p class="card-text mb-0">Wash your hands and be careful!
 </p>
 	  		<a href="http://localhost:4000/baby-shark-wash-your-hands-kyrgyz/" class="stretched-link"></a>
-	    </div>
-	</div>
-</div>
-	
-	<div class="col mb-3">
-	<div class="card h-100">
-		<img src="http://localhost:4000/assets/images/2020/05/conference-community-media-kyrgyzstan-nov-2017-judson-keynote.jpg" alt="What I have learned about my Peace Corps legacy in Kyrgyzstan" class="img-fluid" />
-	    <div class="card-body">
-	        <h5 class="card-title">What I have learned about my Peace Corps legacy in Kyrgyzstan</h5>
-	        <p class="card-text mb-0">I recently learned a few things which I did not know about my own legacy in Kyrgyzstan. Some of these...</p>
-	  		<a href="http://localhost:4000/my-peace-corps-legacy/" class="stretched-link"></a>
 	    </div>
 	</div>
 </div>
