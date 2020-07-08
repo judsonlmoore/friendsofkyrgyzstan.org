@@ -18,7 +18,7 @@ Please contact Becca at <rebkatrip@yahoo.com>  with any stories, story ideas, o
 Yes, stories.  Stories about people.  Culture.  Anecdotes.  Getting to Kyrgyzstan, travel within Kyrgyzstan.  We want it all.  Please submit those to the website:  www.friendsof kyrgyzstan.org  
 
 
-![]({{ site.url }}/assets/images/2005/04/kyrgyz-family-in-garden.png)
+![]({{ site.url }}/assets/images/2005/04/kyrgyz-family-in-garden.png){: .img-fluid}
 
 ## Ever Wonder What It Would Be Like to Live in Kyrgyzstan Again?
 
@@ -32,7 +32,7 @@ There were a lot of things that I could still say in Kyrgyz and Russian, but the
 
 I was one of the Volunteers who was moved up from the south when the problems in Batken began in 1999, and my time in the Peace Corps had been a little rocky.  I had made arrangements with the Peace Corps to leave my village to head up the GLOBE ecology program in Jalal-Abad, a difficult decision made even more difficult by my host family's failure to understand why I was leaving.  Then, during what should have been my transition, I was evacuated with the other southern Volunteers and relocated to Balikchi.  I never saw my host family again.  My time in Balikchi had been marked by professional frustration, both with GLOBE and the Fund Meerim center where I was working, and because my time was short and other PCV's were plentiful I made few attempts to integrate into my new community.  After COS, I struggled with whether or not my second year had been served well, whether or not I had made any impact.  Hearing that the struggling GLOBE program collapsed under my successor, Alice Tyler (now  Moy), despite all her valiant efforts did not assuage my doubts.  Now I was back, and a bit leery of opening old wounds by traveling back to my old haunts.
 
-![]({{ site.url }}/assets/images/2005/04/cooking-beshbarmak.png)
+![]({{ site.url }}/assets/images/2005/04/cooking-beshbarmak.png){: .img-fluid}
 
 ## Join Friends of Kyrgyzstan and the National Peace Corps Association
 
@@ -80,7 +80,7 @@ When I thought this meeting couldn't get more bizarre, in came a high ranking of
 
 **Editor's note:**  Chong rakhmat to Matt Cain for helping produce this initial newsletter!
 
-![]({{ site.url }}/assets/images/2005/04/kyrgyz-students.png)
+![]({{ site.url }}/assets/images/2005/04/kyrgyz-students.png){: .img-fluid}
 
 ## Worth the Sacrifice: Years after COS,Amy and her family are still helping  young Kyrgyz adults become important and productive citizens of Kyrgyzstan and the world
 
@@ -94,7 +94,7 @@ One thing led to another and we couldn't help Lena if we weren't helping this on
 
 This endeavor has been of no small sacrifice to anyone, not least my family, who continue to support my cause because they know how much it means to me and more importantly, they know how much it means to the kids. We are helping these young adults become important and productive citizens of Kyrgyzstan and the world, and that is worth the sacrifice every time.
 
-![]({{ site.url }}/assets/images/2005/04/peace-corps-volunteers-in-kyrgyzstan.png)
+![]({{ site.url }}/assets/images/2005/04/peace-corps-volunteers-in-kyrgyzstan.png){: .img-fluid}
 
 - Don't forget to send newsletter submissions and ideas to Becca: <rebkatrip@yahoo.com>!  Please send items for May's newsletter by May 23, 2005.
 
