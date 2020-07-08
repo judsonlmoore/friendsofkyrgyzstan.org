@@ -6,7 +6,6 @@ tags:
   - third goal
 excerpt:		I recently learned a few things which I did not know about my own legacy in Kyrgyzstan. Some of these I suspected, while others were a complete shock.
 image:			/assets/images/2020/05/conference-community-media-kyrgyzstan-nov-2017-judson-keynote.jpg
-canonical_url:  `https://www.judsonlmoore.com/my-peace-corps-legacy/`
 author:			judsonlmoore
 ---
 
