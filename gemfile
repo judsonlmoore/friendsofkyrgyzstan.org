@@ -8,7 +8,7 @@ source "https://rubygems.org"
 #
 
 # Get latest version of jekyll
-# gem "jekyll", github: "jekyll/jekyll"
+gem "jekyll", github: "jekyll/jekyll"
 
 # Shopify liquid-c gem written in C to speed up Liquid parsing
 gem "liquid-c"
