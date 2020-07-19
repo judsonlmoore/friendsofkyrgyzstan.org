@@ -14,3 +14,5 @@ _site/
 .jekyll-cache
 .sass-cache/
 .jekyll-metadata
+package-lock.json
+Gemfile.lock
