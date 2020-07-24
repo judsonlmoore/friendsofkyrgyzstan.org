@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+
+<main id="main">
+
+  <!-- ======= Breadcrumbs ======= -->
+  <section id="breadcrumbs" class="breadcrumbs">
+    <div class="container">
+
+      <div class="d-flex justify-content-between align-items-center">
+        <h2>{% if page.autopages %}{{page.autopages.display_name}} {% endif %}Page {{page.pagination_info.curr_page}} of {{page.pagination_info.total_pages | capitalize }}</h2>
+        <ol>
+          <li><a href="{{ site.url }}">Home</a></li>
+          <li>{% if page.autopages %}{{page.autopages.display_name}} {% endif %}Page {{page.pagination_info.curr_page}} of {{page.pagination_info.total_pages | capitalize }}</li>
+        </ol>
+      </div>
+
+    </div>
+  </section><!-- End Breadcrumbs -->
+
+
+  <section id="blog" class="blog">
+    <div class="container">
+
+      {{ content | markdownify | camelcase }}
+
+      <div class="row">
+        {% for post in paginator.posts %}
+        {% include postbox-vertical.html %}
+        {% endfor %}
+      </div>
+
+      {% include pagination.html %}
+
+    </div>
+  </section>
+
+</main>

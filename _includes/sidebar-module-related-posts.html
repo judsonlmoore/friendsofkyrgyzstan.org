@@ -1,0 +1,38 @@
+<h3 class="sidebar-title">Related Posts</h3>
+<div class="sidebar-item recent-posts">
+
+{% assign maxRelated = 4 %}
+{% assign minCommonTags =  0 %} <!-- raise this value to make posts more relevant -->
+{% assign maxRelatedCounter = 0 %}
+
+{% for post in site.posts %}
+
+{% assign sameTagCount = 0 %}
+{% assign commonTags = '' %}
+
+{% for tag in post.tags %}
+  {% if post.url != page.url %}
+    {% if page.tags contains tag %}
+      {% assign sameTagCount = sameTagCount | plus: 1 %}
+      {% capture tagmarkup %} <span class="label label-default">{{ tag }}</span> {% endcapture %}
+      {% assign commonTags = commonTags | append: tagmarkup %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+{% if sameTagCount >= minCommonTags %}
+
+<div class="post-item clearfix">
+  <img src="{{ site.url }}{{ post.image }}" alt="{{ post.title }}">
+  <h4><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h4>
+  <time datetime="{{ post.date | date:"%B %e, %Y" }}">{{ post.date | date:"%B %e, %Y" }}</time>
+</div>
+
+{% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+  {% if maxRelatedCounter >= maxRelated %}
+    {% break %}
+  {% endif %}
+{% endif %}
+{% endfor %}
+
+</div><!-- End sidebar recent posts-->

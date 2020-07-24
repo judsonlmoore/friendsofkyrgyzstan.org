@@ -1,0 +1,36 @@
+<div class="col-lg-4  col-md-6 d-flex align-items-stretch" data-aos="fade-up">
+  <article class="entry">
+
+    <div class="entry-img">
+      <img src="{{ site.url }}{{ post.image }}" alt="{{ post.title }}" class="img-fluid">
+    </div>
+
+    <h2 class="entry-title">
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </h2>
+
+    <div class="entry-meta">
+      <ul>
+        <li class="d-flex align-items-center">
+          <i class="icofont-user"></i> 
+          {% assign author = site.authors | where: 'short_name', post.author | first %}
+          <a href="{{ site.url }}/authors/{{ author.short_name }}">{{ author.name | camelcase }}</a>
+        </li>
+        <li class="d-flex align-items-center">
+          <i class="icofont-wall-clock"></i> 
+          <time datetime="{{ post.date | date:"%B %e, %Y" }}">{{ post.date | date:"%B %e, %Y" }}</time>
+        </li>
+      </ul>
+    </div>
+
+    <div class="entry-content">
+      <p>
+        {{ post.excerpt | strip_html | truncatewords:20 }}
+      </p>
+      <div class="read-more">
+        <a href="{{ post.url }}">Read More</a>
+      </div>
+    </div>
+
+  </article><!-- End blog entry -->
+</div>

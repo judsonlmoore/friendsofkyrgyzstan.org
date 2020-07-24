@@ -6,7 +6,7 @@ tags:
   - guest post
 author:			tracyriggan
 image:			/assets/images/2020/07/how-to-cook-rainbow-trout.jpg
-toc: 			false
+featured: true
 ---
 
 

@@ -1,0 +1,10 @@
+<!-- Instagram feed by https://github.com/stevenschobert/instafeed.js/ -->
+<div id="instafeed"></div>
+<script src='{{ site.instafeed-app }}'></script>
+<script src="{{ site.url }}/assets/js/instafeed.min.js"></script>
+<script type="text/javascript">
+  var feed = new Instafeed({
+    accessToken: InstagramToken
+  });
+  feed.run();
+</script>
