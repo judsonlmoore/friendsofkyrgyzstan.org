@@ -5,7 +5,7 @@ tags:
   - k-19
   - radiomost
   - talas
-image:			/assets/images/2011/07/Three-tea-cups.jpeg
+image:			/assets/images/2011/07/peela-chai-each.png
 author:			judsonlmoore
 featured:		true
 ---
