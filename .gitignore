@@ -1,12 +1,6 @@
+# Jekyll stuff
 /_site/
-.DS_Store
-.jekyll
-.bundle
-.sass-cache
+_site/
 .jekyll-cache
+.sass-cache
 .jekyll-metadata
-package-lock.json
-Gemfile
-Gemfile.lock
-node_modules
-package.json
