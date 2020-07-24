@@ -6,7 +6,7 @@ tags:
   - guest post
 author:			astrarakhmatillakyzy
 image:			/assets/images/2020/07/astras-story-astra.jpg
-toc: 			false
+featured:		true
 ---
 
 

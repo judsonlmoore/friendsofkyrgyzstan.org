@@ -1,18 +1,12 @@
-_site
+/_site/
 .DS_Store
 .jekyll
 .bundle
 .sass-cache
+.jekyll-cache
+.jekyll-metadata
+package-lock.json
 Gemfile
 Gemfile.lock
 node_modules
 package.json
-
-# Jekyll stuff
-/_site/
-_site/
-.jekyll-cache
-.sass-cache/
-.jekyll-metadata
-package-lock.json
-Gemfile.lock

@@ -1,0 +1,18 @@
+<!-- ======= Blog Section ======= -->
+<section id="blog" class="blog">
+  <div class="container">
+
+    <div class="section-title">
+      <h2>Blog</h2>
+      <p>Recent articles</p>
+    </div>
+
+  	<div class="row">
+      {% assign filtered_posts = site.posts | where: 'homepage', nil %}
+      {% for post in filtered_posts limit:6 %}
+      {% include postbox-vertical.html %}
+      {% endfor %}
+    </div>
+
+  </div>
+</section>

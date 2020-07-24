@@ -1,15 +1,62 @@
 title: Friends of Kyrgyzstan
+description: 
 subtitle: A place to connect with others who love Kyrgyzstan.
+baseurl: ""
+url: https://www.friendsofkyrgyzstan.org
 
-url: "https://www.friendsofkyrgyzstan.org"
+kramdown:
+  html_to_native: true
+
+gems:
+  - jekyll-paginate-v2
+
+# plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-target-blank
+
+# jekyll-seo-tag
+twitter:
+  username: 
+  card: summary_large_image
+facebook:
+  app_id: 636734270387509
+  admins: 748068695307188
+  publisher: 
+social:
+  name: Friends of Kyrgyzstan
+  links:
+    - https://instagram.com/fokgz
+    - https://www.facebook.com/FriendsOfKyrgyzstan
+webmaster_verifications:
+  google: mK8tnmjq_rgZGKXsVPop1El9ozFQphTiEJdStAlXAk8
+  bing: 
+  alexa: 
+  yandex: 
+  baidu: 
+lang: en_US
 google-analytics: UA-12358141-35
 
+# post permalinks
 permalink: /:title/
 
-plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-include-cache
+# Instagram feed by https://github.com/stevenschobert/instafeed.js/
+instafeed-app: https://xxx.herokuapp.com/token.js
+
+# jekyll-feed
+feed:
+  excerpt_only: false
+  posts_limit: 20
+
+#albolia search 
+algolia:
+  application_id: XM479O2J66
+  index_name: friendsogkyrgyzstan.or
+  search_only_api_key: e3e9445b102f485cc3c002eea515e1a9
+
+include:
+  - _pages
 
 collections:
   authors:
@@ -48,10 +95,6 @@ twitter:
   # username: benbalter
   card: summary_large_image
 
-facebook:
-  app_id: 636734270387509
-  admins: 748068695307188
-
 social:
   name: Friends of Kyrgyzstan
   links:
@@ -60,6 +103,62 @@ social:
 
 disqus: fokgz
 mailchimp-list: https://friendsofkyrgyzstan.us10.list-manage.com/subscribe/post?u=db91617a7211166ac946aeb91&amp;id=08e9a611b3
+
+autopages:
+  enabled: enabled
+  categories: 
+    layouts: 
+      - 'blog.html'
+    title: ':cat'
+    permalink: '/category/:cat'
+    slugify:
+      mode: 'default'
+      case: true
+  collections:
+    layouts: 
+      - 'blog.html'
+    title: ':coll'
+    permalink: '/collection/:coll'
+    slugify:
+      mode: 'default'
+      case: true 
+  tags:
+    layouts: 
+      - 'blog.html'
+    title: ':tag'
+    permalink: '/tag/:tag'
+    slugify:
+      mode: 'default'
+      case: true
+
+# Pagination Settings https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md
+pagination:
+  enabled: true
+  per_page: 9
+  permalink: '/page-:num/'
+  title: ':title'
+  sort_field: 'date'
+  sort_reverse: true
+  trail: 
+    before: 2 # The number of links before the current page
+    after: 2  # The number of links after the current page
+
+# contact info 
+email: contact@friendsofkyrgyzstan.org
+address: A108 Adam Street, New York, NY 535022
+phone: +1 559 554 8855
+google-maps-embed: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6154143.992073323!2d70.25001281661739!3d41.135549326126075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3897381dfce927f3%3A0x281058b74e88c433!2sKyrgyzstan!5e0!3m2!1sen!2sde!4v1595618403473!5m2!1sen!2sde
+formspree: mlejayob
+mailchimp-list: https://friendsofkyrgyzstan.us10.list-manage.com/subscribe/post?u=db91617a7211166ac946aeb91&amp;id=08e9a611b3
+github_username:  judsonlmoore
+disqus: "fokgz"
+social:
+  twitter: 
+  facebook: friendsofkyrgyzstan
+  instagram: fokgz
+  youtube: 
+  soundcloud: 
+  linkedin: 
 
 compress_html:  
   clippings: all  

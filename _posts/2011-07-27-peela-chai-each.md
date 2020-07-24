@@ -7,6 +7,7 @@ tags:
   - talas
 image:			/assets/images/2011/07/Three-tea-cups.jpeg
 author:			judsonlmoore
+featured:		true
 ---
 
 Last week was RadioMost’s 4th Anniversary as the pioneer community radio station in Kyrgyzstan.  To mark the occasion we had a music festival at which a few of my fellow Peace Corps Volunteers performed a song.

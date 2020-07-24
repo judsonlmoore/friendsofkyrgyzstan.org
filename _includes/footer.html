@@ -1,51 +1,78 @@
-<div class="container-fluid bg-dark text-white text-center py-3 py-md-5">
-  <div class="container">
-    <div class="col">
-      <p>Friends of Kyrgyzstan is a registered 501(c)3 organization and is not associated with the United States Peace Corps. The views and information expressed here are our own and do not necessarily reflect the opinions or policies of either the United States Peace Corps or it’s volunteers.</p>
-    </div>
-  </div>
-</div>
+<!-- ======= Footer ======= -->
+<footer id="footer">
+  <div class="footer-top">
+    <div class="container">
+      <div class="row">
 
-<footer class="container py-5">
-  <div class="row">
-    <div class="col-12 col-md">
-      <p class="lead">Friends of Kyrgyzstan 501(c)3</p>
-      <small class="d-block mb-3 text-muted">© 1992-{{ 'now' | date: "%Y" }}</small>
-    </div>
-    <div class="col-6 col-md">
-      <h5>From Us</h5>
-      <ul class="list-unstyled text-small">
-        <li><a class="text-muted" href="{{ site.url }}/grants/">Grants</a></li>
-        <li><a class="text-muted" href="{{ site.url }}/cookbook/">Cookbook</a></li>
-        <li><a class="text-muted" href="{{ site.url }}/donate/">Donate</a></li>
-        <li><a class="text-muted" href="{{ site.url }}/authors/">Authors</a></li>
-        <li><a class="text-muted" href="{{ site.url }}/bylaws/">Bylaws</a></li>
-      </ul>
-    </div>
-    <div class="col-6 col-md">
-      <h5>Peace Corps</h5>
-      <ul class="list-unstyled text-small">
-        <li><a class="text-muted" href="https://www.peacecorps.gov/" target="_blank">Peace Corps Home</a></li>
-        <li><a class="text-muted" href="https://www.peacecorps.gov/kyrgyz-republic/" target="_blank">Serve in Kyrgyzstan</a></li>
-        <li><a class="text-muted" href="https://amzn.to/38uUH35" target="_blank">Books about Peace Corps</a></li>
-      </ul>
-    </div>
-    <div class="col-6 col-md">
-      <h5>National Association</h5>
-      <ul class="list-unstyled text-small">
-        <li><a class="text-muted" href="https://www.peacecorpsconnect.org/" target="_blank">NPCA Home</a></li>
-        <li><a class="text-muted" href="https://www.peacecorpsconnect.org/cpages/our-mission-and-model" target="_blank">Mission and Goals</a></li>
-        <li><a class="text-muted" href="https://www.peacecorpsconnect.org/auth/signup" target="_blank">Join NPCA</a></li>
-        <li><a class="text-muted" href="https://www.peacecorpsconnect.org/articles" target="_blank">Blog</a></li>
-      </ul>
-    </div>
-    <div class="col-6 col-md">
-      <h5>Site</h5>
-      <ul class="list-unstyled text-small">
-        <li><a class="text-muted" href="{{ site.url }}/contact/">Contact</a></li>
-        <li><a class="text-muted" href="{{ site.url }}/privacy/">Privacy</a></li>
-        <li><a class="text-muted" href="{{ site.url }}/sitemap.xml">Sitemap</a></li>
-      </ul>
+        <div class="col-lg-3 col-md-6">
+          <div class="footer-info">
+            <h3>{{ site.title }}</h3>
+            <p>{% if site.address %}{{ site.address }}<br><br>{% endif %}
+              {% if site.phone %}<strong>Phone:</strong> {{ site.phone }}<br>{% endif %}
+              {% if site.email %}<strong>Email:</strong> {{ site.email }}<br>{% endif %}
+            </p>
+            <div class="social-links mt-3">
+              {% include social-buttons.html %}
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-2 col-md-6 footer-links">
+          <h4>Top Topics</h4>
+          <ul>
+          {% assign sortedTags = site.tags %}  
+            {% if sortedTags.first[0] == null %}
+              {% for tag in sortedTags limit:5 %} 
+                <li><i class="bx bx-chevron-right"></i> <a href="{{ site.url }}/tag/{{ tag | slugify }}/">{{ tag | capitalize }}</a></li>
+              {% endfor %}
+            {% else %}
+              {% for tag in sortedTags limit:5 %} 
+                <li><i class="bx bx-chevron-right"></i> <a href="{{ site.url }}/tag/{{ tag[0] | slugify }}/">{{ tag[0] | capitalize }}</a></li>
+              {% endfor %}
+            {% endif %}
+          {% assign sortedTags = nil %}
+          </ul>
+        </div>
+
+        <div class="col-lg-3 col-md-6 footer-links">
+          <h4>Top Categories</h4>
+          <ul>
+          {% assign sortedCategories = site.categories %}  
+            {% if sortedCategories.first[0] == null %}
+              {% for category in sortedCategories limit:5 %} 
+                <li><i class="bx bx-chevron-right"></i> <a href="{{ site.url }}/category/{{ category | slugify }}/">{{ category | capitalize }}</a></li>
+              {% endfor %}
+            {% else %}
+              {% for category in sortedCategories limit:5 %} 
+                <li><i class="bx bx-chevron-right"></i> <a href="{{ site.url }}/category/{{ category[0] | slugify }}/">{{ category[0] | capitalize }}</a></li>
+              {% endfor %}
+            {% endif %}
+          {% assign sortedCategories = nil %}
+          </ul>
+        </div>
+
+        <div class="col-lg-4 col-md-6 footer-newsletter">
+          <h4>Newsletter</h4>
+          <p>Sign up to {{ site.title }}</p>
+          {% include mailchimp.html %}
+
+        </div>
+
+      </div>
     </div>
   </div>
-</footer>
+
+  <div class="container">
+
+    <div class="copyright">
+      &copy; Copyright {{ 'now' | date: '%Y' }}, <strong><span>{{ site.title }}</span></strong>. All Rights Reserved.
+    </div>
+    <div class="credits">
+      <!-- All the links in the footer should remain intact. -->
+      <!-- You can delete the links only if you purchased the pro version. -->
+      <!-- Licensing information: https://bootstrapmade.com/license/ -->
+      <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/sailor-free-bootstrap-theme/ -->
+      Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+    </div>
+  </div>
+</footer><!-- End Footer -->
