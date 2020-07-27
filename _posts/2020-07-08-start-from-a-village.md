@@ -1,9 +1,9 @@
 ---
 title: 			A journey to the world will start from a village
-categories:		rpcv
+categories:		RPCV
 tags:
   - K-6
-  - guest post
+  - Guest Post
 author:			astrarakhmatillakyzy
 image:			/assets/images/2020/07/astras-story-astra.jpg
 featured:		true

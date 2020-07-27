@@ -1,0 +1,45 @@
+---
+title: 				Authors
+subtitle:			The voice of the people on our blog
+description:	These are the people who have contributed to this website's content.
+permalink:		/authors/
+---
+
+
+<div class="row content">
+  <div class="col-lg-6">
+    <h2>Third Goal through writing</h2>
+    <h3>Fullfil the Peace Corps Third Goal by sharing your story with the world on the Friends of Kyrgyzstan blog</h3>
+  </div>
+  <div class="col-lg-6 pt-4 pt-lg-0">
+    <p>
+      <strong>Thank you to our wonderful authors!</strong> Over the years many PCVs, RPCVs, counterparts, colleagues, and staff have all contributed to the content found on the blog. If you would also like to be a contributing offer, please <a href="{{ site.url }}/contact/">contact us</a> with a pitch for what you might like to write about.
+    </p>
+    <p>
+      Topics of focus:
+    </p>
+    <ul>
+      <li><i class="ri-check-double-line"></i> Why you wanted to become a Peace Corps Volunteer</li>
+      <li><i class="ri-check-double-line"></i> What is the legacy you left behind with your work?</li>
+      <li><i class="ri-check-double-line"></i> What advice would you give to others about Peace Corps or Kyrgyzstan?</li>
+    </ul>
+    <p class="font-italic">
+      We are eager to hear your story soon!
+    </p>
+  </div>
+</div>
+
+<section id="team" class="team">
+ 	<div class="container">
+    <div class="section-title">
+      <h2>Authors</h2>
+      <p>of our blog</p>
+    </div>
+		<div class="row">
+      {% assign sorted_authors = site.authors %}
+			{% for person in sorted_authors %}
+      {% include profile-box.html %}
+			{% endfor %}
+	  </div>
+  </div>
+</section>

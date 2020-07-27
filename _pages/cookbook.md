@@ -12,7 +12,7 @@ Cooking in Kyrgyzstan can be an all-day adventure: procuring ingredients at the 
 
 These recipes are made from local ingredients, with plausible substitutions suggested where necessary. Recipes come from the collections of Peace Corps Volunteers and Kyrgyz Nationals who have graciously hosted us and fed us. Be adventurous. Stock up on spices you‘ve never tried before. Watch your host mother make plov. Buy that strange looking vegetable. Buy an oven. Experiment! Make the most of the incredibly delicious and abundant produce available in Kyrgyzstan – the most delicious fruits and vegetables abound in the summer, and canning is a great way to keep the momentum going through the winter. Play around with these recipes, develop a personal style, and stay healthy (or at least, satisfied) during your service! Bon appétit!
 
-<a class="btn btn-primary mr-3 mb-2" href="{{ site.url }}/assets/docs/peace-corps-kyrgyzstan-cookbook-2012.pdf" target="_blank" role="button">Download Complete Cookbook</a> 
+<a class="btn btn-secondary mr-3 mb-2" href="{{ site.url }}/assets/docs/peace-corps-kyrgyzstan-cookbook-2012.pdf" target="_blank" role="button">Download Complete Cookbook</a> 
 
 *This edition was edited by Stephanie Smith and Lola Dupuy (K-18‘s).*
 

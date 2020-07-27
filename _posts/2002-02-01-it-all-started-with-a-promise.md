@@ -1,9 +1,9 @@
 ---
 title: 			It all started with a promise
-categories:		rpcv
+categories:		RPCV
 tags:
   - K-6
-  - guest post
+  - Guest Post
 author:			amyredwine
 image:			/assets/images/2002/02/american-univeristy-of-central-asia-bishkek-kyrgyzstan.jpg
 toc: 			false

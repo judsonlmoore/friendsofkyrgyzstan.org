@@ -1,9 +1,9 @@
 ---
 title: 			How to cook rainbow trout Kyrgyz style
-categories:		cookbook
+categories:		Cookbook
 tags:
   - K-6
-  - guest post
+  - Guest Post
 author:			tracyriggan
 image:			/assets/images/2020/07/how-to-cook-rainbow-trout.jpg
 featured: true

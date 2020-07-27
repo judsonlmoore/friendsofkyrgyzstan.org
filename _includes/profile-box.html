@@ -1,0 +1,18 @@
+<div class="col-lg-6 mt-4">
+  <div class="member d-flex align-items-start">
+    <div class="pic"><img src="{{ site.url }}/{{ person.avatar }}" class="img-fluid" alt="{{ person.name }}"></div>
+    <div class="member-info">
+      <h4>{{ person.name }}</h4>
+      <span>{% if person.position %}{{ person.position }}{% endif %}</span>
+      <p>
+        <a href="{{ site.url }}/{{ person.url }}">View profile</a>
+      </p>
+			<div class="social">
+				{% if person.twitter %}<a href="{{ person.twitter }}"><i class="ri-twitter-fill"></i></a>{% endif %}
+				{% if person.facebook %}<a href="{{ person.facebook }}"><i class="ri-facebook-fill"></i></a>{% endif %}
+				{% if person.instagram %}<a href="{{ person.instagram }}"><i class="ri-instagram-fill"></i></a>{% endif %}
+				{% if person.linkedin %}<a href="{{ person.linkedin }}"><i class="ri-linkedin-box-fill"></i></a>{% endif %}
+			</div>
+		</div>
+  </div>
+</div>

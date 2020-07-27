@@ -1,6 +1,6 @@
 ---
 title:			Americanski Bill Bame - July 2007
-categories:		newsletter
+categories:		Newsletter
 tags:
   - Americanski Bill Bame
 image:			/assets/images/2020/05/americanski-bill-bame.png

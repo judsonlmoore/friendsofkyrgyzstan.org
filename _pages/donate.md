@@ -11,7 +11,7 @@ permalink:		/donate/
 
 Please click the button below to be redirected to our PayPal account where you can easilly make your donation today.
 
-<a class="btn btn-primary mr-3 mb-2" href="https://www.paypal.me/friendsofkyrgyzstan/25" target="_blank" role="button">Donate $25</a> 
-<a class="btn btn-primary mr-3 mb-2" href="https://www.paypal.me/friendsofkyrgyzstan/50" target="_blank" role="button">Donate $50</a> 
-<a class="btn btn-primary mr-3 mb-2" href="https://www.paypal.me/friendsofkyrgyzstan/100" target="_blank" role="button">Donate $100</a> 
-<a class="btn btn-primary mr-3 mb-2" href="https://www.paypal.me/friendsofkyrgyzstan" target="_blank" role="button">Donate other</a>
+<a class="btn btn-secondary mr-3 mb-2" href="https://www.paypal.me/friendsofkyrgyzstan/25" target="_blank" role="button">Donate $25</a> 
+<a class="btn btn-secondary mr-3 mb-2" href="https://www.paypal.me/friendsofkyrgyzstan/50" target="_blank" role="button">Donate $50</a> 
+<a class="btn btn-secondary mr-3 mb-2" href="https://www.paypal.me/friendsofkyrgyzstan/100" target="_blank" role="button">Donate $100</a> 
+<a class="btn btn-secondary mr-3 mb-2" href="https://www.paypal.me/friendsofkyrgyzstan" target="_blank" role="button">Donate other</a>

@@ -1,13 +1,12 @@
 ---
-layout: 		page
+layout:				page
 ---
 
 {{ content }}
 
-<h2>Posts</h2>
-<div class="row row-cols-1 row-cols-sm-2 row-cols-md-3">
+<div class="row blog">
   {% assign filtered_posts = site.posts | where: 'author', page.short_name %}
   {% for post in filtered_posts %}
-	{% include postbox.html %}
-	{% endfor %}
+  {% include postbox-vertical.html %}
+  {% endfor %}
 </div>

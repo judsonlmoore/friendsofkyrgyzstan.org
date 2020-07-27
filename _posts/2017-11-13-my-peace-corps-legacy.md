@@ -1,9 +1,9 @@
 ---
 title:			What I have learned about my Peace Corps legacy in Kyrgyzstan
-categories:		rpcv
+categories:		RPCV
 tags:
-  - guest post
-  - third goal
+  - Guest Post
+  - Third Goal
 excerpt:		I recently learned a few things which I did not know about my own legacy in Kyrgyzstan. Some of these I suspected, while others were a complete shock.
 image:			/assets/images/2020/05/conference-community-media-kyrgyzstan-nov-2017-judson-keynote.jpg
 author:			judsonlmoore

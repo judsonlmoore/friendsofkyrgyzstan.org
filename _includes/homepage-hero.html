@@ -8,7 +8,6 @@
     <ol class="carousel-indicators" id="hero-carousel-indicators">
       {% assign filtered_posts = site.posts | where: 'featured', 'true' %}
       {% for post in filtered_posts %}
-      <li data-target="#heroCarousel" data-slide-to="{{ forloop.index0 }}"{% if forloop.first %} class="active"{% endif %}></li>
       {% endfor %}
     </ol>
     

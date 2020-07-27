@@ -1,6 +1,6 @@
 ---
 title:     		Americanski Bill Bame - April 2005
-categories:		newsletter
+categories:		Newsletter
 tags:
   - Americanski Bill Bame
 image:      	/assets/images/2020/05/americanski-bill-bame.png

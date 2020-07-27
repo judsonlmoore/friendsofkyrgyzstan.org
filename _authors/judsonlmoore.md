@@ -2,7 +2,7 @@
 short_name: judsonlmoore
 name: Judson L Moore
 position: RPCV K-19
-avatar: /assets/images/avatars/judsonlmoore.jpg
+avatar: assets/images/avatars/judsonlmoore.jpg
 linkedin: judsonlmoore
 instagram: judsonlmoore
 facebook: judsonlmoore

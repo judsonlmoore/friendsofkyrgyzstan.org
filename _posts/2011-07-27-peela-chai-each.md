@@ -1,10 +1,10 @@
 ---
 title:			Peela Chai Each
-categories:		pcv
+categories:		PCV
 tags:
-  - k-19
-  - radiomost
-  - talas
+  - K-19
+  - Radiomost
+  - Talas
 image:			/assets/images/2011/07/peela-chai-each.png
 author:			judsonlmoore
 featured:		true

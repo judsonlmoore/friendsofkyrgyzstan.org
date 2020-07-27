@@ -11,11 +11,11 @@ layout: default
       <div class="d-flex justify-content-between align-items-center">
         {% assign sortedCategories = page.categories %}
         {% for category in sortedCategories limit:1 %}
-        <h2>{{ category | camelcase }}</h2>
+        <h2>{{ category }}</h2>
         {% endfor %}
         <ol>
           <li><a href="{{ site.url }}">Home</a></li>
-          <li><a href="#">Blog</a></li>
+          <li><a href="{{ site.url }}/{{ page.url }}">{{ page.title }}</a></li>
         </ol>
       </div>
 

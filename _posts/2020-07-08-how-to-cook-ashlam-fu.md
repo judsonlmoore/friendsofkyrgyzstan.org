@@ -1,9 +1,9 @@
 ---
 title: 			Mariia Eje’s Traditional Ashlam-Fu
-categories:		cookbook
+categories:		Cookbook
 tags:
   - K-6
-  - guest post
+  - Guest Post
 author:			briannahawk
 image:			/assets/images/2020/07/ashlam-fu-final-dish.jpg
 toc: 			false

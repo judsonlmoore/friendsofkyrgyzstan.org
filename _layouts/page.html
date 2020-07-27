@@ -8,25 +8,20 @@ layout: default
   <!-- ======= Breadcrumbs ======= -->
   <section id="breadcrumbs" class="breadcrumbs">
     <div class="container">
-
       <div class="d-flex justify-content-between align-items-center">
-        <h2>{{ page.title | capitalize }}</h2>
+        <h2>{{ page.title }}</h2>
         <ol>
           <li><a href="{{ site.url }}">Home</a></li>
-          <li>{{ page.title | capitalize }}</li>
+          <li>{{ page.title }}</li>
         </ol>
       </div>
-
     </div>
   </section><!-- End Breadcrumbs -->
 
-
-<section id="{{ page.title | lowercase }}" class="{{ page.title | lowercase}}">
-  <div class="container">
-
-  	{{ content }}
-
-  </div>
-</section>
+  <section id="{{ page.title | lowercase }}" class="{{ page.title | lowercase}}">
+    <div class="container">
+    	{{ content }}
+    </div>
+  </section>
 
 </main>
