@@ -5,9 +5,9 @@ position: RPCV K-3
 service-years: 1995-1997
 assignment: English Education, School #1, Kyzyl-Kiya Kyrgyzstan
 avatar: assets/images/avatars/tracyriggan.jpeg
-linkedin: tracyriggan
-instagram: riggantracy
-facebook: tracy.l.riggan
+linkedin: https://www.linkedin.com/in/tracyriggan
+instagram: https://www.instagram.com/riggantracy
+facebook: https://www.facebook.com/tracy.l.riggan
 ---
 During her 2 years teaching middle and high school English at School#1 in Kyzyl-Kiya, Tracy worked to draw community attention to environmental issues, hosting a workshop for the kids and cooperating with the local waste department to build, install, and develop a plan for maintenance of waste receptables throughout the community. 
 

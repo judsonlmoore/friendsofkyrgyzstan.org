@@ -39,7 +39,7 @@ lang: en_US
 google-analytics: UA-12358141-35
 
 # post permalinks
-permalink: /:title/
+permalink: /:title
 
 # Instagram feed by https://github.com/stevenschobert/instafeed.js/
 instafeed-app: https://xxx.herokuapp.com/token.js
@@ -52,7 +52,7 @@ feed:
 #albolia search 
 algolia:
   application_id: XM479O2J66
-  index_name: friendsogkyrgyzstan.or
+  index_name: friendsogkyrgyzstan.org
   search_only_api_key: e3e9445b102f485cc3c002eea515e1a9
 
 include:
@@ -98,8 +98,8 @@ twitter:
 social:
   name: Friends of Kyrgyzstan
   links:
-    - https://www.facebook.com/FriendsOfKyrgyzstan/
-    - https://www.instagram.com/fokgz/
+    - https://www.facebook.com/FriendsOfKyrgyzstan
+    - https://www.instagram.com/fokgz
 
 disqus: fokgz
 mailchimp-list: https://friendsofkyrgyzstan.us10.list-manage.com/subscribe/post?u=db91617a7211166ac946aeb91&amp;id=08e9a611b3
@@ -135,7 +135,7 @@ autopages:
 pagination:
   enabled: true
   per_page: 9
-  permalink: '/page-:num/'
+  permalink: '/page-:num'
   title: ':title'
   sort_field: 'date'
   sort_reverse: true
