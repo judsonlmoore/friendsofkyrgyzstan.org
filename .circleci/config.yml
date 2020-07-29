@@ -28,8 +28,8 @@ jobs:
           paths:
             - vendor/bundle
       - run:
-          name: make deploy
-          command: make deploy
+          name: Jekyll Build
+          command: bundle exec jekyll build --trace
 #      - run:
 #          name: HTMLProofer tests
 #          command: |
