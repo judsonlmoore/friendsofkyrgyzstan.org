@@ -27,10 +27,8 @@ After a few months of this, **I started to get an idea**. I observed that many o
 
 Additionally, it was obvious that nearly everyone in Kyrgyzstan had a smartphone and was keeping in touch with the news and their friends via phone apps. Therefore, I came up with the idea that **we should provide phones and an online platform** to these journalists so that they could publish stories today, while they continue to progress toward building a radio station tomorrow.
 
-<figure class="figure">
-  <img src="{{ site.url }}/assets/images/2020/05/conference-community-media-kyrgyzstan-nov-2017-group-photo.jpg" class="figure-img img-fluid rounded" alt="Participants of community media conference in Bishkek in November 2017.">
-  <figcaption class="figure-caption">Participants of community media conference in Bishkek in November 2017.</figcaption>
-</figure>
+
+{% cloudinary {{ site.url }}/assets/images/2020/05/conference-community-media-kyrgyzstan-nov-2017-group-photo.jpg alt="Participants of community media conference in Bishkek in November 2017." caption="Participants of community media conference in Bishkek in November 2017." %}
 
 [kyrgyzmedia.kg](http://kyrgyzmedia.kg/) was born in 2013 and now reaches **more than 120,000 readers** each year all around the world. A remarkable achievement for these journalists who all come from rural parts of Kyrgyzstan!
 
@@ -38,10 +36,7 @@ Additionally, it was obvious that nearly everyone in Kyrgyzstan had a smartphone
 
 Last week, **I was afforded the opportunity** to present this history and success to the journalists at a media conference in Bishkek, where I was a guest of the conference at the invitation of Deutsche Welle. I am eternally grateful to their support of the project, and of course to the journalists who saw value in this concept and who have owned it ever since.
 
-<figure class="figure">
-  <img src="{{ site.url }}/assets/images/2020/05/kyrgyzmedia.com-5-year-growth.png" class="figure-img img-fluid rounded" alt="A chart showing the growth in articles read year over year.">
-  <figcaption class="figure-caption">Year over year growth in articles read on <a href="http://kyrgyzmedia.kg/" target="_blank">kyrgyzmedia.kg</a></figcaption>
-</figure>
+{% cloudinary {{ site.url }}/assets/images/2020/05/kyrgyzmedia.com-5-year-growth.png alt="A chart showing the growth in articles read year over year." caption="Year over year growth in articles read on [kyrgyzmedia.kg](http://kyrgyzmedia.kg) %}
 
 ## Improvements in medical facilities
 
@@ -51,10 +46,7 @@ As a writer **constrained to a hospital bed** for a week, I did just what you mi
 
 In my writing, I strived to compliment the skills and achievement of the medical teams, who were indeed great. However, they had very limited resources to work with. The purpose of my article was more to shine a light on the awful conditions of Kyrgyzstan's top surgical center in hopes that it might be **a contributing factor to future improvements**. My article was even [translated into Russian and posted on the local news site, Kloop Media](https://kloop.kg/blog/2013/04/29/kak-amerikanets-perezhil-appenditsit-v-bishkeke/).
 
-<figure class="figure">
-  <img src="{{ site.url }}/assets/images/2020/05/Appendectomy-at-Bishkeks-Natonal-Surgical-Center-049.jpg" class="figure-img img-fluid rounded" alt="Judson recovering in a Bishkek hospital bed after having an appendectomy in Bishkek.">
-  <figcaption class="figure-caption">Judson recovering in a Bishkek hospital bed after having an appendectomy in Bishkek.</figcaption>
-</figure>
+{% cloudinary {{ site.url }}/assets/images/2020/05/Appendectomy-at-Bishkeks-Natonal-Surgical-Center-049.jpg alt="Judson recovering in a Bishkek hospital bed after having an appendectomy in Bishkek." cloudinary="Judson recovering in a Bishkek hospital bed after having an appendectomy in Bishkek." %}
 
 This week, my old doctor shared with me the news that **something indeed did happen** as a result of my reporting.
 
@@ -64,10 +56,7 @@ What I have now learned, is that this started a wave on which enough support was
 
 I was only dreaming that by sharing my experiences, I could make some impact at all on the Kyrgyz health care system. To learn that now a whole new hospital has been built on the support which my article played a part in forming is one of **the most remarkable things** I have ever come to know.
 
-<figure class="figure">
-  <img src="{{ site.url }}/assets/images/2020/05/kyrgyzstan-president-almazbek-atambayev-breaking-ground-hospital.jpg" class="figure-img img-fluid rounded" alt="President Almazbek Atambayev of Kyrgyzstan breaks ground on a new medical facility.">
-  <figcaption class="figure-caption">President Almazbek Atambayev of Kyrgyzstan breaks ground on a new medical facility. Photo credit: <a href="http://www.vb.kg/doc/367922_atambaev:_narody_nyjno_sozdat_dostoynye_ysloviia_dlia_polycheniia_medpomoshi.html" target="_blank"> vb.kg</a></figcaption>
-</figure>
+{% cloudinary {{ site.url }}/assets/images/2020/05/kyrgyzstan-president-almazbek-atambayev-breaking-ground-hospital.jpg alt="President Almazbek Atambayev of Kyrgyzstan breaks ground on a new medical facility." caption="President Almazbek Atambayev of Kyrgyzstan breaks ground on a new medical facility. Photo credit: [vb.kg](http://www.vb.kg/doc/367922_atambaev:_narody_nyjno_sozdat_dostoynye_ysloviia_dlia_polycheniia_medpomoshi.html) %}
 
 ## Students attending university
 
@@ -81,10 +70,7 @@ After a week, the camp concluded and everyone went home, where **I was never to 
 
 This week, I caught up with Meerim and she informed me that **100% of those students** applied to, and are now attending, university! To top it off, they all got scholarships! This outcome was beyond anyone’s wildest hopes and is a testament to what impact anyone can make in the life of another person, especially if you reach them at a young age.
 
-<figure class="figure">
-  <img src="{{ site.url }}/assets/images/2020/05/Bishkek-ICT-Training.jpg" class="figure-img img-fluid rounded" alt="Judson provides computer training to students in Bishkek.">
-  <figcaption class="figure-caption">Judson provides computer training to students in Bishkek.</figcaption>
-</figure>
+{% cloudinary {{ site.url }}/assets/images/2020/05/Bishkek-ICT-Training.jpg alt="Judson provides computer training to students in Bishkek." caption="Judson provides computer training to students in Bishkek." %}
 
 ## Friends that are like family
 
@@ -96,7 +82,5 @@ Kyrgyzstan empowered me to work hard and to strive for a common good. More impor
 
 This is my story, and so I tell it. But if the legacy is to persevere, it is not because it is mine, but because **it is the collectives**. None of this could have been done alone and I shy away from taking any amount of credit. I am proud to have been a part of these accomplishments, and I will continue to use my life to serve the community around me. **I hope that you will do the same.**
 
-<figure class="figure">
-  <img src="{{ site.url }}/assets/images/2020/05/first-vs-second-bishkek-departure.png" class="figure-img img-fluid rounded" alt="First time I departed from Bishkek vs the second time. Great friends all around!">
-  <figcaption class="figure-caption">First time I departed from Bishkek vs the second time. Great friends all around! Posted by <a href="https://www.facebook.com/judsonlmoore" target="_blank">Judson Moore</a> on <a href="https://www.facebook.com/judsonlmoore/posts/10108298844121885" target="_blank">Saturday, November 11, 2017</a></figcaption>
-</figure>
+{% cloudinary {{ site.url }}/assets/images/2020/05/first-vs-second-bishkek-departure.png alt="First time I departed from Bishkek vs the second time. Great friends all around!" caption="First time I departed from Bishkek vs the second time. Great friends all around! Posted by [Judson Moore](https://www.facebook.com/judsonlmoore) on [Saturday, November 11, 2017](https://www.facebook.com/judsonlmoore/posts/10108298844121885)" %}
+
