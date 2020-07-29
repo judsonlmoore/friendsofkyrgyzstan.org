@@ -1,6 +1,6 @@
 <div class="col-lg-6 mt-4">
   <div class="member d-flex align-items-start">
-    <div class="pic"><img src="{{ site.url }}/{{ person.avatar }}" class="img-fluid" alt="{{ person.name }}"></div>
+    <div class="pic">{% cloudinary {{ site.url }}/{{ person.avatar }}" alt="{{ person.name }}" %}</div>
     <div class="member-info">
       <h4>{{ person.name }}</h4>
       <span>{% if person.position %}{{ person.position }}{% endif %}</span>

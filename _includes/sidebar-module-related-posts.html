@@ -23,7 +23,7 @@
 {% if sameTagCount >= minCommonTags %}
 
 <div class="post-item clearfix">
-  <img src="{{ site.url }}{{ post.image }}" alt="{{ post.title }}">
+  {% cloudinary {{ site.url }}{{ post.image }}" alt="{{ post.title }}" %}
   <h4><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h4>
   <time datetime="{{ post.date | date:"%B %e, %Y" }}">{{ post.date | date:"%B %e, %Y" }}</time>
 </div>

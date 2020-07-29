@@ -2,7 +2,7 @@
   <article class="entry">
 
     <div class="entry-img">
-      <img src="{{ site.url }}{{ post.image }}" alt="{{ post.title }}" class="img-fluid">
+      {% cloudinary {{ site.url }}{{ post.image }} alt="{{ post.title }}" %}
     </div>
 
     <h2 class="entry-title">

@@ -1,6 +1,6 @@
 {% assign author = site.authors | where: 'short_name', page.author | first %}
 <div class="blog-author clearfix">
-  <img src="{{ site.url }}/{{ author.avatar }}" class="rounded-circle float-left" alt="{{ author.name }}">
+  {% cloudinary {{ site.url }}/{{ author.avatar }} class="rounded-circle float-left" alt="{{ author.name }}" %} 
   <h4>{{ author.name }}</h4>
   <div class="social-links">
     {% if author.twitter %}<a href="https://twitter.com/{{ author.twitter }}"><i class="icofont-twitter"></i></a>{% endif %}
