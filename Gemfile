@@ -20,4 +20,5 @@ group :jekyll_plugins do
 	gem 'jekyll-algolia'
 	gem 'jekyll-target-blank'
 	gem 'jekyll-include-cache'
+	gem 'jekyll-cloudinary'
 end
