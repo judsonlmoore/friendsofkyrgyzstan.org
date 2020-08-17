@@ -145,7 +145,7 @@ pagination:
 
 # contact info 
 email: contact@friendsofkyrgyzstan.org
-address: A108 Adam Street, New York, NY 535022
+address: # A108 Adam Street, New York, NY 535022
 phone: # +1 559 554 8855
 google-maps-embed: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6154143.992073323!2d70.25001281661739!3d41.135549326126075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3897381dfce927f3%3A0x281058b74e88c433!2sKyrgyzstan!5e0!3m2!1sen!2sde!4v1595618403473!5m2!1sen!2sde
 formspree: mlejayob
@@ -160,6 +160,7 @@ social:
   soundcloud: 
   linkedin: 
 
+# minification
 compress_html:  
   clippings: all  
   comments: ["<!-- ", " -->"] 
@@ -171,6 +172,7 @@ compress_html:
 
 cloudinary:
   cloud_name: friendsofkyrgyzstan
+  only_prod: true
   verbose: false
   presets:
     default:
