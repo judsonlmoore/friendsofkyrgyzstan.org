@@ -6,7 +6,6 @@ tags:
   - Guest Post
 author:			tracyriggan
 image:			/assets/images/2020/08/how-to-cook-samsa.jpg
-featured: true
 ---
 
 
