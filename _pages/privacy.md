@@ -4,7 +4,7 @@ subtitle: 		For current PCVs in Kyrgyzstan
 permalink:		/privacy/
 ---
 
-This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from [https://www.friendsofkyrgyzstan.com/](https://www.friendsofkyrgyzstan.com/) (the “Site”).
+This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from [https://www.friendsofkyrgyzstan.com/](https://www.friendsofkyrgyzstan.com) (the “Site”).
 
 ## PERSONAL INFORMATION WE COLLECT
 
@@ -30,7 +30,7 @@ We use the Device Information that we collect to help us screen for potential ri
 
 ## SHARING YOUR PERSONAL INFORMATION
 
-We share your Personal Information with third parties to help us use your Personal Information, as described above. We also use Google Analytics to help us understand how our customers use the Site--you can read more about how Google uses your Personal Information here: [https://www.google.com/intl/en/policies/privacy/](https://www.google.com/intl/en/policies/privacy/). You can also opt-out of Google Analytics here: [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout).
+We share your Personal Information with third parties to help us use your Personal Information, as described above. We also use Google Analytics to help us understand how our customers use the Site--you can read more about how Google uses your Personal Information here: [https://www.google.com/intl/en/policies/privacy/](https://www.google.com/intl/en/policies/privacy). You can also opt-out of Google Analytics here: [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout).
 
 Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
 
@@ -42,7 +42,7 @@ You can opt out of targeted advertising by:
 - FACEBOOK - [https://www.facebook.com/settings/?tab=ads](https://www.facebook.com/settings/?tab=ads)
 - GOOGLE - [https://www.google.com/settings/ads/anonymous](https://www.google.com/settings/ads/anonymous)
 
-Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance’s opt-out portal at: [http://optout.aboutads.info/](http://optout.aboutads.info/).
+Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance’s opt-out portal at: [http://optout.aboutads.info/](http://optout.aboutads.info).
 
 ## DO NOT TRACK
 

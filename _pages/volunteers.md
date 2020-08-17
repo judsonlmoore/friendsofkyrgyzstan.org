@@ -8,7 +8,7 @@ permalink:		/volunteers/
 
 Since 1992, hundreds of American citizens have committed 27-months of their life to the service of others in Kyrgyzstan by serving as Peace Corps Volunteers. Here is a list of all those who have served, their program, and site location. 
 
-*Please [contact us]({{ site.url }}/contact/) to request additions and corrections to this list.*
+*Please [contact us]({{ site.url }}/contact) to request additions and corrections to this list.*
 
 | **K-1**  | **Name**                     | **Project** | **Site**                                    |
 | -------- | ---------------------------- | ----------- | ------------------------------------------- |

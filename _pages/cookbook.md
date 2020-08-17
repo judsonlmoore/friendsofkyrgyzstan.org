@@ -138,7 +138,7 @@ Combine meat, onions and fat in large bowl. Season to taste with salt and pepper
 
 While fish is a bit more common now in Kyrgyzstan, back in the late 90’s, it was rare unless you went fishing and caught it yourself. There are certainly no national dishes that feature fish. But for me-trout triggers a good memory specific to my experience there.
 
-[This dish was featured in a blog post here!]({{ site.url }}/how-to-cook-rainbow-trout/)
+[This dish was featured in a blog post here!]({{ site.url }}/how-to-cook-rainbow-trout)
 
 **Ingredients:**
 - Salt to taste

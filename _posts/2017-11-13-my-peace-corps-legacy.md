@@ -9,7 +9,7 @@ image:			/assets/images/2020/05/conference-community-media-kyrgyzstan-nov-2017-j
 author:			judsonlmoore
 ---
 
-I just returned from a 2-week trip to Kyrgyzstan. “Kyrgyz-what???” you say? Exactly. Well, if you have been paying attention to my writings the last years then you will recall that [**I served in the US Peace Corps**](https://www.judsonlmoore.com/categories/#jobs/peace-corps/) from 2011-2013 in Kyrgyzstan.
+I just returned from a 2-week trip to Kyrgyzstan. “Kyrgyz-what???” you say? Exactly. Well, if you have been paying attention to my writings the last years then you will recall that [**I served in the US Peace Corps**](https://www.judsonlmoore.com/categories/#jobs/peace-corps) from 2011-2013 in Kyrgyzstan.
 
 Kyrgyzstan is a gorgeous and remote country in the heart of Central Asia. Europeans who visit the country refer to it as **the Switzerland of Central Asia**. The history of the country is steeped in nomadic traditions, and it was once a major route along the Silk Road.
 
@@ -30,7 +30,7 @@ Additionally, it was obvious that nearly everyone in Kyrgyzstan had a smartphone
 
 {% cloudinary {{ site.url }}/assets/images/2020/05/conference-community-media-kyrgyzstan-nov-2017-group-photo.jpg alt="Participants of community media conference in Bishkek in November 2017." caption="Participants of community media conference in Bishkek in November 2017." %}
 
-[kyrgyzmedia.kg](http://kyrgyzmedia.kg/) was born in 2013 and now reaches **more than 120,000 readers** each year all around the world. A remarkable achievement for these journalists who all come from rural parts of Kyrgyzstan!
+[kyrgyzmedia.kg](http://kyrgyzmedia.kg) was born in 2013 and now reaches **more than 120,000 readers** each year all around the world. A remarkable achievement for these journalists who all come from rural parts of Kyrgyzstan!
 
 **I couldn’t be prouder** that this project’s origins are from an idea that I had and fought for, wrote the original project plan for and even secured the first rounds of funding for. However, the success and achievements are, and always have been, with the journalists who are utilizing the technology to tell their story.
 
@@ -42,9 +42,9 @@ Last week, **I was afforded the opportunity** to present this history and succes
 
 One morning, just before my first departure from Kyrgyzstan in 2013, **my appendix decided it was time to leave my body**. I had an emergency appendectomy in Kyrgyzstan and it was not a fun experience at all. In fact, it was downright terrible.
 
-As a writer **constrained to a hospital bed** for a week, I did just what you might expect and [documented the whole experience](https://www.judsonlmoore.com/appendectomy-in-bishkek/).
+As a writer **constrained to a hospital bed** for a week, I did just what you might expect and [documented the whole experience](https://www.judsonlmoore.com/appendectomy-in-bishkek).
 
-In my writing, I strived to compliment the skills and achievement of the medical teams, who were indeed great. However, they had very limited resources to work with. The purpose of my article was more to shine a light on the awful conditions of Kyrgyzstan's top surgical center in hopes that it might be **a contributing factor to future improvements**. My article was even [translated into Russian and posted on the local news site, Kloop Media](https://kloop.kg/blog/2013/04/29/kak-amerikanets-perezhil-appenditsit-v-bishkeke/).
+In my writing, I strived to compliment the skills and achievement of the medical teams, who were indeed great. However, they had very limited resources to work with. The purpose of my article was more to shine a light on the awful conditions of Kyrgyzstan's top surgical center in hopes that it might be **a contributing factor to future improvements**. My article was even [translated into Russian and posted on the local news site, Kloop Media](https://kloop.kg/blog/2013/04/29/kak-amerikanets-perezhil-appenditsit-v-bishkeke).
 
 {% cloudinary {{ site.url }}/assets/images/2020/05/Appendectomy-at-Bishkeks-Natonal-Surgical-Center-049.jpg alt="Judson recovering in a Bishkek hospital bed after having an appendectomy in Bishkek." cloudinary="Judson recovering in a Bishkek hospital bed after having an appendectomy in Bishkek." %}
 
@@ -62,7 +62,7 @@ I was only dreaming that by sharing my experiences, I could make some impact at 
 
 **A brilliant university student** named Meerim once asked me to help her with a summer camp for students in the 15-16 year age range. The problem is that the students would be from an area of Kyrgyzstan which was off-limits for me to travel to. As a workaround solution, Meerim packed up all the students and brought them to me, in Bishkek.
 
-Roughly 20 students attended. [For my part of the camp](https://www.judsonlmoore.com/bishkek-ict-training/), we had two objectives: expose the students to basic computer skills, especially that of using Excel and understanding budgets, and also to expose them to universities in Bishkek. The hope was that we might **inspire some of the students** to consider applying for university when they finished their primary studies.
+Roughly 20 students attended. [For my part of the camp](https://www.judsonlmoore.com/bishkek-ict-training), we had two objectives: expose the students to basic computer skills, especially that of using Excel and understanding budgets, and also to expose them to universities in Bishkek. The hope was that we might **inspire some of the students** to consider applying for university when they finished their primary studies.
 
 The training was lots of fun and the kids grasped all of the concepts just fine. They even seemed to find it all quite interesting. **We toured a wide variety of universities** ranging from the American university, a Russian university, a design university, and a technical college. We also exposed them to some local entrepreneurs, even gaining a tour of the roasting facility for Central Asia’s finest coffee roaster.
 

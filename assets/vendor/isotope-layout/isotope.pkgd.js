@@ -1097,7 +1097,7 @@ function toDashedAll( str ) {
 
 var transitionProps = 'opacity,' + toDashedAll( transformProperty );
 
-proto.enableTransition = function(/* style */) {
+proto.enableTransition = function(/* style *) {
   // HACK changing transitionProperty during a transition
   // will cause transition to jump
   if ( this.isTransitioning ) {

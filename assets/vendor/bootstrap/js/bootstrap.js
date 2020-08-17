@@ -1,5 +1,5 @@
 /*!
-  * Bootstrap v4.5.0 (https://getbootstrap.com/)
+  * Bootstrap v4.5.0 (https://getbootstrap.com)
   * Copyright 2011-2020 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
   * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
   */
@@ -1679,7 +1679,7 @@
          * Popper - https://popper.js.org
          */
         if (typeof Popper === 'undefined') {
-          throw new TypeError('Bootstrap\'s dropdowns require Popper.js (https://popper.js.org/)');
+          throw new TypeError('Bootstrap\'s dropdowns require Popper.js (https://popper.js.org)');
         }
 
         var referenceElement = this._element;
@@ -2867,7 +2867,7 @@
   var Tooltip = /*#__PURE__*/function () {
     function Tooltip(element, config) {
       if (typeof Popper === 'undefined') {
-        throw new TypeError('Bootstrap\'s tooltips require Popper.js (https://popper.js.org/)');
+        throw new TypeError('Bootstrap\'s tooltips require Popper.js (https://popper.js.org)');
       } // private
 
 

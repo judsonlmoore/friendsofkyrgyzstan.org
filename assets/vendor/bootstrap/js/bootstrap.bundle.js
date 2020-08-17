@@ -1,5 +1,5 @@
 /*!
-  * Bootstrap v4.5.0 (https://getbootstrap.com/)
+  * Bootstrap v4.5.0 (https://getbootstrap.com)
   * Copyright 2011-2020 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
   * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
   */
@@ -3239,7 +3239,7 @@
    */
   function toValue(str, measurement, popperOffsets, referenceOffsets) {
     // separate value from unit
-    var split = str.match(/((?:\-|\+)?\d*\.?\d*)(.*)/);
+    var split = str.match(/((?:\-|\+)?\d*\.?\d*)(.*));
     var value = +split[1];
     var unit = split[2];
 
@@ -3299,14 +3299,14 @@
 
     // Split the offset string to obtain a list of values and operands
     // The regex addresses values with the plus or minus sign in front (+10, -20, etc)
-    var fragments = offset.split(/(\+|\-)/).map(function (frag) {
+    var fragments = offset.split(/(\+|\-)).map(function (frag) {
       return frag.trim();
     });
 
     // Detect if the offset string contains a pair of values or a single one
     // they could be separated by comma or space
     var divider = fragments.indexOf(find(fragments, function (frag) {
-      return frag.search(/,|\s/) !== -1;
+      return frag.search(/,|\s) !== -1;
     }));
 
     if (fragments[divider] && fragments[divider].indexOf(',') === -1) {
@@ -4292,7 +4292,7 @@
          * Popper - https://popper.js.org
          */
         if (typeof Popper === 'undefined') {
-          throw new TypeError('Bootstrap\'s dropdowns require Popper.js (https://popper.js.org/)');
+          throw new TypeError('Bootstrap\'s dropdowns require Popper.js (https://popper.js.org)');
         }
 
         var referenceElement = this._element;
@@ -5480,7 +5480,7 @@
   var Tooltip = /*#__PURE__*/function () {
     function Tooltip(element, config) {
       if (typeof Popper === 'undefined') {
-        throw new TypeError('Bootstrap\'s tooltips require Popper.js (https://popper.js.org/)');
+        throw new TypeError('Bootstrap\'s tooltips require Popper.js (https://popper.js.org)');
       } // private
 
 
