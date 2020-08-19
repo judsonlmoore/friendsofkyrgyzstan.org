@@ -28,8 +28,10 @@ I hope you try out this recipe and enjoy the speed, ease, and flexibility! Exper
 
 *Makes 12 samsa*
 
-- Bake at 380 degrees for 25 minutes.
-- Meat filling (for 12):
+Bake at 380 degrees for 25 minutes.
+
+**Meat filling (for 12)f**
+
 - 1/2 pound ground meat
 - 1/4 c diced onions
 - 1/3 c finely diced raw potato  
@@ -37,7 +39,9 @@ I hope you try out this recipe and enjoy the speed, ease, and flexibility! Exper
 - 1 teaspoon crushed cumin seeds (put them between parchment, paper, or foil and roll over them with a rolling pin)
 - Salt
 - Pepper
-- Pumpkin filling (for 12):
+
+**Pumpkin filling (for 12)**
+
 - 2 c shredded pumpkin (butternut squash will do in a pinch)
 - 1/4 c diced onions
 - 1 clove crushed/minced garlic
