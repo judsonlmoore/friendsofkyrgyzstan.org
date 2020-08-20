@@ -5,7 +5,7 @@ tags:
   - K-6
   - Guest Post
 author:			tracyriggan
-image:			/assets/images/2020/08/how-to-cook-samsa.jpg
+image:			/assets/images/2020/08/cooking-kyrgyz-samsa.jpg
 ---
 
 
