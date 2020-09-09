@@ -5,7 +5,7 @@
       <h4>{{ person.name }}</h4>
       <span>{% if person.position %}{{ person.position }}{% endif %}</span>
       <p>
-        <a href="{{ site.url }}/{{ person.url }}">View profile</a>
+        <a href="{{ site.url }}{{ person.url }}">View profile</a>
       </p>
 			<div class="social">
 				{% if person.twitter %}<a href="{{ person.twitter }}"><i class="ri-twitter-fill"></i></a>{% endif %}
