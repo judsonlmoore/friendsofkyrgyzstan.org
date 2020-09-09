@@ -48,6 +48,11 @@ instafeed-app: https://xxx.herokuapp.com/token.js
 feed:
   excerpt_only: false
   posts_limit: 20
+  categories:
+    - Cookbook
+    - Guest Post
+    - RPCV
+    - PCV
 
 #albolia search 
 algolia:
