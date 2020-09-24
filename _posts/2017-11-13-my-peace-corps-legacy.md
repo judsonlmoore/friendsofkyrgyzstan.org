@@ -30,7 +30,7 @@ Additionally, it was obvious that nearly everyone in Kyrgyzstan had a smartphone
 
 {% cloudinary {{ site.url }}/assets/images/2020/05/conference-community-media-kyrgyzstan-nov-2017-group-photo.jpg alt="Participants of community media conference in Bishkek in November 2017." caption="Participants of community media conference in Bishkek in November 2017." %}
 
-[kyrgyzmedia.kg](http://kyrgyzmedia.kg) was born in 2013 and now reaches **more than 120,000 readers** each year all around the world. A remarkable achievement for these journalists who all come from rural parts of Kyrgyzstan!
+[kyrgyzmedia.kg](https://kyrgyzmedia.kg/) was born in 2013 and now reaches **more than 120,000 readers** each year all around the world. A remarkable achievement for these journalists who all come from rural parts of Kyrgyzstan!
 
 **I couldn’t be prouder** that this project’s origins are from an idea that I had and fought for, wrote the original project plan for and even secured the first rounds of funding for. However, the success and achievements are, and always have been, with the journalists who are utilizing the technology to tell their story.
 
