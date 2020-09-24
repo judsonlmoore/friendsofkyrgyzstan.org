@@ -6,7 +6,7 @@
     </div>
 
     <h2 class="entry-title">
-      <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ site.url }}{{ post.url }}" alt="Read {{ post.title }}" >{{ post.title }}</a>
     </h2>
 
     <div class="entry-meta">
@@ -14,7 +14,7 @@
         <li class="d-flex align-items-center">
           <i class="icofont-user"></i> 
           {% assign author = site.authors | where: 'short_name', post.author | first %}
-          <a href="{{ site.url }}/authors/{{ author.short_name }}">{{ author.name | camelcase }}</a>
+          <a href="{{ site.url }}/authors/{{ author.short_name }}" alt="View {{ author.name | camelcase }}'s profile" >{{ author.name | camelcase }}</a>
         </li>
         <li class="d-flex align-items-center">
           <i class="icofont-wall-clock"></i> 
@@ -28,7 +28,7 @@
         {{ post.excerpt | strip_html | truncatewords:20 }}
       </p>
       <div class="read-more">
-        <a href="{{ site.url }}{{ post.url }}">Read More</a>
+        <a href="{{ site.url }}{{ post.url }}" alt="Read {{ post.title }}" >Read More</a>
       </div>
     </div>
 
