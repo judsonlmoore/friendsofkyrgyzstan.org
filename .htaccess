@@ -1,0 +1,22 @@
+//Rewrite to www
+Options +FollowSymLinks
+RewriteEngine on
+RewriteCond %{HTTPS} !=on
+RewriteRule ^(.*) https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+//301 Redirect Entire Directory
+RedirectMatch 301 /contact/(.*) /about//$1
+
+//Caching schema
+<FilesMatch "\.(css|js)$">
+Header set Cache-Control "public, max-age=0"
+</FilesMatch>
+
+//Custom 400 errors
+ErrorDocument 400 /404.html
+
+//Prevent viewing of .htaccess file
+<Files .htaccess>
+order allow,deny
+deny from alla
+</Files>
