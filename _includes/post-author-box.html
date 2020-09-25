@@ -3,11 +3,11 @@
   {% cloudinary {{ site.url }}/{{ author.avatar }} class="rounded-circle float-left" alt="{{ author.name }}" %} 
   <h4>{{ author.name }}</h4>
   <div class="social-links">
-    {% if author.twitter %}<a href="https://twitter.com/{{ author.twitter }}"><i class="icofont-twitter"></i></a>{% endif %}
-    {% if author.facebook %}<a href="https://facebook.com/{{ author.facebook }}"><i class="icofont-facebook"></i></a>{% endif %}
-    {% if author.instagram %}<a href="https://instagram.com/{{ author.instagram }}"><i class="icofont-instagram"></i></a>{% endif %}
-    {% if author.linkedin %}<a href="https://linkedin.com/in/{{ author.linkedin }}"><i class="icofont-linkedin"></i></a>{% endif %}
-    {% if author.youtube %}<a href="https://youtube.com/{{ author.youtube }}"><i class="icofont-youtube"></i></a>{% endif %}
+    {% if author.twitter %}<a href="{{ author.twitter }}"><i class="icofont-twitter"></i></a>{% endif %}
+    {% if author.facebook %}<a href="{{ author.facebook }}"><i class="icofont-facebook"></i></a>{% endif %}
+    {% if author.instagram %}<a href="{{ author.instagram }}"><i class="icofont-instagram"></i></a>{% endif %}
+    {% if author.linkedin %}<a href="{{ author.linkedin }}"><i class="icofont-linkedin"></i></a>{% endif %}
+    {% if author.youtube %}<a href="{{ author.youtube }}"><i class="icofont-youtube"></i></a>{% endif %}
   </div>
   <p>
     {{ author.content | markdownify }}
