@@ -5,8 +5,4 @@ position: RPCV K-15
 avatar: assets/images/avatars/johncervetto.jpeg
 linkedin: https://www.linkedin.com/in/johncervetto/
 ---
-- Provided life skills and health education to 100 Kyrgyzstani youth to increase capacity in the student’s ability to make positive life choices and live a healthier lifestyle.
-- Successfully secured $7,000 funding to implement an agricultural project for a local children’s shelter.
-- Designed and directed a youth empowerment camp for 100 students, 20 volunteers, and 10 local leaders.
-- Provided consultation and training to village health workers on best practices for promoting healthier lifestyles.
-- Taught health, English, and life skills education classes to 100 students over 2 years.
+John Cervetto served in the Talas Oblast of Kyrgyzstan from 2007-2009 at a local boarding school for Kyrgyz youth and children with disabilities. His main focus was on educating youth and teachers about health promotion topics and practices.  He also taught English at the village school and worked with local partners and other volunteers on various community and youth development initiatives.
