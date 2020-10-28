@@ -60,6 +60,8 @@ Once chopped combine pumpkin, parsley, spices, and oil and mix in a bowl. If you
 
 If you'd like to make some manti with meat, combine beef and lamb in a bowl with salt and pepper.  Add some of the pumpkin mixture so you have roughly half and half (or whatever your preferred ratio is!)
 
+*As we made vegitarian manti, we don't have a photo to support this optional step. Instead, here is a Kyrgyz sheep.*
+
 {% cloudinary assets/images/2020/10/how-to-cook-basic-pumpkin-spice-manti-step-4.jpg alt="" %}
 
 ### 5. Roll dough
