@@ -46,7 +46,7 @@ When I started at Richland College, I was so excited, but I also was homesick an
 
 When I said Kyrgyzstan, she said that there is an ESOL teacher called Alice Lee, who had been in my country. Later in the lab class, she was introduced to me, and I was so happy that I met one of my people. 
 
-{% cloudinary {{ site.url }}/assets/images/2020/07/astras-story-astra-and-alice.jpg %}
+{% cloudinary /assets/images/2020/07/astras-story-astra-and-alice.jpg %}
 
 Alice went to Kyrgyzstan back in 1999-2001 with the Peace Corps, where she taught English in a small village in the state of Issyk-Kul. I believe we were destined to meet, and I am still so thankful that I met her. She was a huge supporter for me in my hardest days. 
 
@@ -56,7 +56,7 @@ Alice and I even talked about the “Bride Kidnapping” in my country and how y
 
 Some very important events in my Richland College life are that I was finally able to represent my country and play komuz in the intercultural festival day. Another important thing is that Alice and I signed a paper, requesting to set up a peace pole, with the saying “Дуйнодо тынчтык болсун” which means “May peace be on earth”. 
 
-{% cloudinary {{ site.url }}/assets/images/2020/07/astras-story-peace-pole.jpg %}
+{% cloudinary /assets/images/2020/07/astras-story-peace-pole.jpg %}
 
 I think that “Дуйнодо тынчтык болсун” is a very hot and active topic nowadays in the year 2020 where everything is turned upside down in the world. 
 
