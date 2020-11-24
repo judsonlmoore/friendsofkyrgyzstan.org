@@ -8,7 +8,7 @@ author:			lindaleeblaine
 image:			/assets/images/2020/11/how-to-cook-chak-chak.jpg
 ---
 
-K-7 volunteer Linda Lee Blaine shares her recipe for Chak Chak that she learned while serving in the village of Saruu (Issyk-Kul) from 1999 to 2001. 
+K-7 volunteer Linda Lee Blaine shares her recipe for Chak Chak that she learned while serving in the village of Saruu (Issyk-Kul) from 1999 to 2001.
 
 ## Ingredients for making Chak Chak
 
