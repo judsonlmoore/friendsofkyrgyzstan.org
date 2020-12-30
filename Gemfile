@@ -17,7 +17,6 @@ group :jekyll_plugins do
 	gem 'jekyll-paginate-v2'
 	gem 'jekyll-feed'
 	gem 'jekyll-sitemap'
-	gem 'jekyll-algolia'
 	gem 'jekyll-target-blank'
 	gem 'jekyll-include-cache'
 	gem 'jekyll-cloudinary'

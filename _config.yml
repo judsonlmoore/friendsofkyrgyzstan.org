@@ -54,12 +54,6 @@ feed:
     - RPCV
     - PCV
 
-#albolia search 
-algolia:
-  application_id: XM479O2J66
-  index_name: friendsogkyrgyzstan.org
-  search_only_api_key: e3e9445b102f485cc3c002eea515e1a9
-
 include:
   - _pages
 
