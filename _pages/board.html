@@ -43,3 +43,38 @@ permalink:		/board/
 	  </div>
   </div>
 </section>
+
+<section id="team" class="team">
+  <div class="container">
+    <div class="section-title">
+      <h2>Past members of our Board of Directors</h2>
+      <p>Thank you to all who have served in leadership positions with Friends of Kyrgyzstan.</p>
+    </div>
+    <div class="row">
+
+      <div class="col-lg-6">
+
+        <table class="table table-borderless">
+
+          <thead>
+            <tr>
+              <th scope="col">Name</th>
+              <th scope="col">Group</th>
+            </tr>
+          </thead>
+          <tbody>
+            {% assign sorted_members = site.data.board-past %}
+            {% for item in sorted_members %}
+            <tr>
+              <td>{{ item.name }}</td>
+              <td>{{ item.group }}</td>
+            </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+
+      </div>
+
+    </div>
+  </div>
+</section>

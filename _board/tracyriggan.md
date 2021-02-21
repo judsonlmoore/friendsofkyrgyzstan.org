@@ -1,7 +1,7 @@
 ---
 short_name: tracyriggan
 name: Tracy Riggan
-position: RPCV K-3
+position: President, RPCV K-3
 service-years: 1995-1997
 assignment: English Education, School #1, Kyzyl-Kiya Kyrgyzstan
 avatar: assets/images/avatars/tracyriggan.jpeg

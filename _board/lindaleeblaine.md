@@ -1,7 +1,7 @@
 ---
 short_name: lindaleeblaine
 name: Linda Lee Blaine
-position: RPCV K-7
+position: Secretary, RPCV K-7
 avatar: assets/images/avatars/lindaleeblaine.jpeg
 linkedin: https://www.linkedin.com/in/linda-lee-blaine-78b264b/
 ---

@@ -60,3 +60,42 @@ Grants will be reviewed by the Friends of Kyrgyzstan Board and recipients will b
 
 <a href="{{ site.url }}/assets/docs/Friends-of-Kyrgyzstan-Volunteer-Sponsorship-Grant-2018.docx">Download Grant Application</a>
 <a href="{{ site.url }}/assets/docs/FOK-Grant-Report-Form.docx">Download Grant Report Form</a>
+
+<section id="team" class="team">
+  <div class="container">
+    <div class="section-title">
+      <h2>Past Grants</h2>
+      <p>Thank you to all who have let us be part of your projects.</p>
+    </div>
+    <div class="row">
+
+      <div class="col-lg-12">
+
+        <table class="table">
+
+          <thead>
+            <tr>
+              <th scope="col-2">Project</th>
+              <th scope="col-2">Volunteer Name</th>
+              <th scope="col-2">Amount Granted</th>
+              <th scope="col-6">Description</th>
+            </tr>
+          </thead>
+          <tbody>
+            {% assign sorted_members = site.data.grants-past %}
+            {% for item in sorted_members %}
+            <tr>
+              <td>{{ item.project }} ({{ item.year }})</td>
+              <td>{{ item.first }} {{ item.last }}</td>
+              <td>${{ item.amount }}</td>
+              <td>{{ item.description }}</td>
+            </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+
+      </div>
+
+    </div>
+  </div>
+</section>
