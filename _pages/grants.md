@@ -75,10 +75,10 @@ Grants will be reviewed by the Friends of Kyrgyzstan Board and recipients will b
 
           <thead>
             <tr>
-              <th scope="col-2">Project</th>
-              <th scope="col-2">Volunteer Name</th>
-              <th scope="col-2">Amount Granted</th>
-              <th scope="col-6">Description</th>
+              <th scope="col">Project</th>
+              <th scope="col">Volunteer Name</th>
+              <th scope="col">Amount Granted</th>
+              <th scope="col">Description</th>
             </tr>
           </thead>
           <tbody>
