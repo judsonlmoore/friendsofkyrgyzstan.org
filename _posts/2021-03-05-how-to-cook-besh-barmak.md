@@ -1,5 +1,6 @@
 ---
 title:						How to cook Besh Barmak
+description:			K-3 volunteer, Tracy Riggan shares her recipe for Besh Barmak that she learned while serving in the village of Kyzyl-Kiya (Osh Region) from 1999 to 2001.
 categories:				Cookbook
 tags:
   - K-3
