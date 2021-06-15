@@ -10,8 +10,7 @@ toc: 			false
 ---
 
 
-It all started with a promise. A promise to Rahat’s mother that I would somehow find a way to get him to the United States to study. I was apprehensive about that promise, not sure how I was going to keep my end of the deal, but when I got back home after 2 ½
-years in Kyrgyzstan, I had to try. I asked my family for help getting him to the US and they were all very supportive. During the process of enrolling him at my old alma mater, I was given not one, but two slots for exchange students and thus, Alina ended up in the US, too, for the 2001-2002 school year.
+It all started with a promise. A promise to Rahat’s mother that I would somehow find a way to get him to the United States to study. I was apprehensive about that promise, not sure how I was going to keep my end of the deal, but when I got back home after 2 ½ years in Kyrgyzstan, I had to try. I asked my family for help getting him to the US and they were all very supportive. During the process of enrolling him at my old alma mater, I was given not one, but two slots for exchange students and thus, Alina ended up in the US, too, for the 2001-2002 school year.
 
 In February 2002, I decided to go to Kyrgyzstan for a visit. It was wonderful and everything was pretty much as I remembered it. I had taken my video camera and when I got back, my family actually wanted to watch all 18 hours or so of video. There, they saw my kids for the first time. My mother fell in love with one in particular, Lena. She became determined to get Lena in school as, at the time, she was still in the village helping her grandparents milk cows, though her heart was absolutely set on studying at American University of Kyrgyzstan. My mother raised the money for her tuition within 12 hours of sending a group mail to all her friends.
 
