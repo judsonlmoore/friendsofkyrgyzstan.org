@@ -34,7 +34,7 @@ layout: default
 
             {% if page.image %}
             <div class="entry-img">
-              {% cloudinary {{ page.image | absolute_url }}" alt="{{ page.title }}" class="w-100" %}
+              {% cloudinary {{ page.image | absolute_url }}" alt="{{ page.title }}" %}
             </div>
             {% endif %}
 
